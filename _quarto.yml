@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "kienngynh's CV"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/kienngynh
+      - icon: linkedin
+        href: https://linkedin.com/in/kienbk60
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
