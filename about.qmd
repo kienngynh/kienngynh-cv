@@ -1,5 +1,16 @@
 ---
 title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/kienbk60
+    - icon: github
+      text: Github
+      href: https://github.com/kienngynh
+
 ---
 
-About this site
+Hi there! I'm Kevil Nguyen, an automation engineer based in Viet Nam. Besides, I have a passion for system language and have worked in the field for 5 years.

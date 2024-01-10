@@ -4,5 +4,15 @@
   },
   "about.qmd": {
     "about.html": "502c0fd5"
+  },
+  "cv/LICENSE.md": {
+    "LICENSE.html": "429e4858"
+  },
+  "cv/cv.qmd": {
+    "cv.tex": "42095c86",
+    "cv.html": "d2e144af"
+  },
+  "LICENSE.md": {
+    "LICENSE.html": "f386d738"
   }
 }
