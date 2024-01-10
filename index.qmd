@@ -1,44 +1,42 @@
 ---
-title: CV
+title: Currirulum vitae
 format:
-  # quarto-cv-pdf: default
+  quarto-cv-pdf: default
   html: default
-author: William Gosset
+author: Nguyen Huu Kien
 date: last-modified
-phone: 123-456-7890
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-email: guinness@consumer-care.net
+phone: (+84)559261197
+address: "Lung Giang Ward · Lim Town · Tien Duc District · Bac Ninh Province, Vietnam"
+email: kienngynh@gmail.com
 fontsize: 11pt
-#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
-#mainfont: Ubuntu # if you want to use a different locally installed font
-#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
-#github: github # github account
-orcid: 0000-0002-1825-0097 # orcid identifier
-#osf: ymqui # osf five character id
+# fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+# mainfont: Ubuntu # if you want to use a different locally installed font
+# CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: kienngynh # github account
+# orcid: 0000-0002-1825-0097 # orcid identifier
+# osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
-web: quarto.org
+# web: quarto.org
 fontawesome: yes
 nocite: '@*'
-bibliography: 
-  peer: peer_bib.bib
-  other: other_bib.bib
+# bibliography: 
+#   peer: peer_bib.bib
+#   other: other_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
 ---
 
 # Employment
 
-*Arthur Guinness & Son*
+*Software Application Manager - ITC Technology JSC*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
-
-Researcher (Dublin) \hfill 1899-1935
+Automation Engineer - ITC Technology JSC (2018-2022)
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*The School of Electronics and Telecom, Hanoi University of Science and Technology*, B.A. Electronics Engineer (2015-2020)
 
-# Publications
+<!-- # Publications
 
 ::: {#refs-peer}
 :::
@@ -51,4 +49,4 @@ Researcher (Dublin) \hfill 1899-1935
 
 # References
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher.
+Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. -->

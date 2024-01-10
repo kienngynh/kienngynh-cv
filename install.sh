@@ -1,0 +1,1 @@
+quarto install extension mps9506/quarto-cv  
