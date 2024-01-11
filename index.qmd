@@ -36,7 +36,7 @@ csl: apa-cv.csl
 
 # Experience
 
-**Software Application Manager**  
+**Application Software Manager**  
 [ITC Technology JSC]  
 [Bac Ninh, Vietnam]  
 [2022-]
