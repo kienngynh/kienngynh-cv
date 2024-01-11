@@ -19,34 +19,66 @@ github: kienngynh # github account
 # web: quarto.org
 fontawesome: yes
 nocite: '@*'
-# bibliography: 
-#   peer: peer_bib.bib
-#   other: other_bib.bib
+bibliography: 
+  peer: peer_bib.bib
+  tech_skills: tech_skills_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
 ---
 
+# Sumary
+
+- Interested in embedded systems, IoT, and automation.
+- Ability to use Rust, Python, C#, C++ and PLC programing language.
+- Knowledge about blockchain and crypto finance.
+- Imbued with a passion for self-learning and improvement.
+
 # Employment
 
-*Software Application Manager - ITC Technology JSC*
+**Software Application Manager**  
+[ITC Technology JSC]  
+[Hanoi, Vietnam]  
+[2022-]
 
-Automation Engineer - ITC Technology JSC (2018-2022)
+* [Key responsibilities and accomplishments in Rust development.]
+* [Specific projects and contributions, focusing on impact and outcomes.]
+* [Use strong action verbs and quantifiable results when possible.]
+
+
+**Automation Engineer**  
+[ITC Technology JSC]  
+[Hanoi, Vietnam]  
+[2018-2022]
+
+* [Key responsibilities and accomplishments in Rust development.]
+* [Specific projects and contributions, focusing on impact and outcomes.]
+* [Use strong action verbs and quantifiable results when possible.]
 
 # Education
 
-*The School of Electronics and Telecom, Hanoi University of Science and Technology*, B.A. Electronics Engineer (2015-2020)
+[B.A. Electronics Engineer]  
+[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]  
+[Hanoi, Vietnam]  
+[2015-2020]
 
-<!-- # Publications
+# Skills
+
+## Technical Skills
+
+::: {#refs-tech_skills}
+:::
+
+## Soft Skills
+
+* Problem-solving
+* Attention to detail
+* Communication
+* Teamwork
+* Learning agility
+
+# Projects
 
 ::: {#refs-peer}
 :::
 
-# Technical Reports
-
-::: {#refs-other}
-:::
-
-
-# References
-
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. -->
+# Interest
