@@ -1,5 +1,5 @@
 ---
-title: Currirulum vitae
+title: Curriculum vitae
 format:
   quarto-cv-pdf: default
   html: default
@@ -52,7 +52,6 @@ csl: apa-cv.csl
   * Designed and managed the company's website, data, and security infrastructure.
   * Migrated the website to a new Rust-based platform.
 
-
 **Automation Engineer**  
 [ITC Technology JSC]  
 [Hanoi, Vietnam]  
@@ -66,7 +65,6 @@ csl: apa-cv.csl
   * Implemented the system at a new residential development.
 * Internal Software Tool
   * Developed a new software tool to automate the company's procurement process.
-
 
 **Software Engineer**  
 [Personal Portfolio]  
