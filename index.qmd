@@ -74,7 +74,7 @@ csl: apa-cv.csl
 [2018-]
 
 * Investment Portfolio Allocation and Cryptocurrency Trading Bot: Automatically allocate investment portfolios and trade cryptocurrencies on Binance use Google Cloud Platform VSP.
-* Polkalance: Developed a decentralized job marketplace built on Substrate and ink!. The platform allows users to post and find jobs securely and transparently.
+* Polkalance: Developed a decentralized job marketplace built on Substrate and ink!. The platform allows users to post and find jobs securely and transparently. [Polkalance](https://polkalance.vercel.app/)
 * Sofle Keyboard: Built a custom mechanical keyboard using the Sofle keyboard kit.
 * And more ...
 
