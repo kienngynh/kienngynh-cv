@@ -6,7 +6,7 @@ format:
 author: Nguyen Huu Kien
 date: last-modified
 phone: (+84)559261197
-address: "Lung Giang Ward · Lim Town · Tien Duc District · Bac Ninh Province, Vietnam"
+address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province, Vietnam"
 email: kienngynh@gmail.com
 fontsize: 11pt
 # fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
@@ -15,13 +15,14 @@ fontsize: 11pt
 github: kienngynh # github account
 # orcid: 0000-0002-1825-0097 # orcid identifier
 # osf: ymqui # osf five character id
-#twitter: twitter # twitter handle
-# web: quarto.org
+# twitter: Tulip_BK # twitter handle
+# linkedin: kienbk60
+web: linkedin.com/in/kienbk60
 fontawesome: yes
 nocite: '@*'
-bibliography: 
-  peer: peer_bib.bib
-  tech_skills: tech_skills_bib.bib
+# bibliography: 
+#   peer: peer_bib.bib
+#   tech_skills: tech_skills_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
 ---
@@ -33,16 +34,23 @@ csl: apa-cv.csl
 - Knowledge about blockchain and crypto finance.
 - Imbued with a passion for self-learning and improvement.
 
-# Employment
+# Experience
 
 **Software Application Manager**  
 [ITC Technology JSC]  
-[Hanoi, Vietnam]  
+[Bac Ninh, Vietnam]  
 [2022-]
 
-* [Key responsibilities and accomplishments in Rust development.]
-* [Specific projects and contributions, focusing on impact and outcomes.]
-* [Use strong action verbs and quantifiable results when possible.]
+* PLC Firmware Development
+  * Developed firmware for Carel controllers and VKool precision air conditioners.
+  * Optimized firmware for performance and reliability.
+* V-Calselector Development
+  * Led the development of V-Calselector software.
+  * Created a user-friendly interface for quick information retrieval.
+  * Integrated with the company's database for accurate and up-to-date information.
+* Website, Data, and Security Infrastructure
+  * Designed and managed the company's website, data, and security infrastructure.
+  * Migrated the website to a new Rust-based platform.
 
 
 **Automation Engineer**  
@@ -50,9 +58,25 @@ csl: apa-cv.csl
 [Hanoi, Vietnam]  
 [2018-2022]
 
-* [Key responsibilities and accomplishments in Rust development.]
-* [Specific projects and contributions, focusing on impact and outcomes.]
-* [Use strong action verbs and quantifiable results when possible.]
+* Automatic Fire Alarm Project
+  * Developed the firmware and software for a new automatic fire alarm system.
+  * Installed and tested the system at a large commercial building, mega mall and factory.
+* BMS Project
+  * Developed the software for a new building management system.
+  * Implemented the system at a new residential development.
+* Internal Software Tool
+  * Developed a new software tool to automate the company's procurement process.
+
+
+**Software Engineer**  
+[Personal Portfolio]  
+[Bac Ninh, Vietnam]  
+[2018-]
+
+* Investment Portfolio Allocation and Cryptocurrency Trading Bot: Automatically allocate investment portfolios and trade cryptocurrencies on Binance use Google Cloud Platform VSP.
+* Polkalance: Developed a decentralized job marketplace built on Substrate and ink!. The platform allows users to post and find jobs securely and transparently.
+* Sofle Keyboard: Built a custom mechanical keyboard using the Sofle keyboard kit.
+* And more ...
 
 # Education
 
@@ -65,20 +89,34 @@ csl: apa-cv.csl
 
 ## Technical Skills
 
-::: {#refs-tech_skills}
-:::
+<!-- ::: {#refs-tech_skills}
+::: -->
+* OS: Window, **Linux**.
+* System programming languages: **Rust**, **Python**, C++, C#.
+* Automation PLC programming languages: Structured Text, FBD.
+* AI Search Tools: **Google Bard AI**, Phind.
+* AI Developer Tools: CodiumAI.
+* Databases: SQLite.
+* Front-end frameworks: Tailwind CSS.
+* Cloud platforms: GCP, Fly.io, Synology.
+* Technology Tools: **Docker**, **Github**
+* IDE: Visual Studio Code, **Helix**.
+* Notebook Tools: **Quarto**, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart.
 
 ## Soft Skills
 
-* Problem-solving
-* Attention to detail
-* Communication
-* Teamwork
-* Learning agility
+* Communication: Ensures everyone is heard and on the same page, keeping conversations productive and engaging.
+* Teamwork: Values strong relationships and collaborative spirit.
+* Self-learning: Proactively seeks out new knowledge and skills to adapt to evolving environments and stay relevant.
+* Technical Writing: Translates complex technical information into clear, concise documents.
 
-# Projects
+<!-- # Projects
 
 ::: {#refs-peer}
-:::
+::: -->
 
 # Interest
+
+* Team player game
+* Walking
+* Reading

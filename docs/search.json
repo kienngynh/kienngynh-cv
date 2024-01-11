@@ -18,14 +18,14 @@
     "href": "index.html#technical-skills",
     "title": "Currirulum vitae",
     "section": "Technical Skills",
-    "text": "Technical Skills"
+    "text": "Technical Skills\n\n\nOS: Window, Linux.\nSystem programming languages: Rust, Python, C++, C#.\nAutomation PLC programming languages: Structured Text, FBD.\nAI Search Tools: Google Bard AI, Phind.\nAI Developer Tools: CodiumAI.\nDatabases: SQLite.\nFront-end frameworks: Tailwind CSS.\nCloud platforms: GCP, Fly.io, Synology.\nTechnology Tools: Docker, Github\nIDE: Visual Studio Code, Helix.\nNotebook Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart."
   },
   {
     "objectID": "index.html#soft-skills",
     "href": "index.html#soft-skills",
     "title": "Currirulum vitae",
     "section": "Soft Skills",
-    "text": "Soft Skills\n\nProblem-solving\nAttention to detail\nCommunication\nTeamwork\nLearning agility"
+    "text": "Soft Skills\n\nCommunication: Ensures everyone is heard and on the same page, keeping conversations productive and engaging.\nTeamwork: Values strong relationships and collaborative spirit.\nSelf-learning: Proactively seeks out new knowledge and skills to adapt to evolving environments and stay relevant.\nTechnical Writing: Translates complex technical information into clear, concise documents."
   },
   {
     "objectID": "LICENSE.html",
