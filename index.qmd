@@ -95,11 +95,11 @@ csl: apa-cv.csl
 * AI Search Tools: **Google Bard AI**, Phind.
 * AI Developer Tools: CodiumAI.
 * Databases: SQLite.
-* Front-end frameworks: Tailwind CSS.
+* Front-end frameworks: **Leptos**, Tailwind CSS, Nextjs.
 * Cloud platforms: GCP, Fly.io, Synology.
 * Technology Tools: **Docker**, **Github**
 * IDE: Visual Studio Code, **Helix**.
-* Notebook Tools: **Quarto**, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart.
+* Document Tools: **Quarto**, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart.
 
 ## Soft Skills
 
