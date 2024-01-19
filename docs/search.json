@@ -18,7 +18,7 @@
     "href": "index.html#technical-skills",
     "title": "Curriculum vitae",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\n\nOS: Window, Linux.\nSystem programming languages: Rust, Python, C++, C#.\nAutomation PLC programming languages: Structured Text, FBD.\nAI Search Tools: Google Bard AI, Phind.\nAI Developer Tools: CodiumAI.\nDatabases: SQLite.\nFront-end frameworks: Tailwind CSS.\nCloud platforms: GCP, Fly.io, Synology.\nTechnology Tools: Docker, Github\nIDE: Visual Studio Code, Helix.\nNotebook Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart."
+    "text": "Technical Skills\n\n\nOS: Window, Linux.\nSystem programming languages: Rust, Python, C++, C#.\nAutomation PLC programming languages: Structured Text, FBD.\nAI Search Tools: Google Bard AI, Phind.\nAI Developer Tools: CodiumAI.\nDatabases: SQLite.\nFront-end frameworks: Leptos, Tailwind CSS, Nextjs.\nCloud platforms: GCP, Fly.io, Synology.\nTechnology Tools: Docker, Github\nIDE: Visual Studio Code, Helix.\nDocument Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart."
   },
   {
     "objectID": "index.html#soft-skills",
