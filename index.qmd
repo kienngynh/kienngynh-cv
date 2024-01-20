@@ -76,6 +76,7 @@ csl: apa-cv.csl
 * Sofle Keyboard
   * Built a custom mechanical keyboard using the Sofle keyboard kit.
 * And more ...
+
 # Education
 
 [B.A. Electronics Engineer]  
