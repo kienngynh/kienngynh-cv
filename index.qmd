@@ -42,40 +42,40 @@ csl: apa-cv.csl
 [2022-]
 
 * PLC Firmware Development
-  * Developed firmware for Carel controllers and VKool precision air conditioners.
-  * Optimized firmware for performance and reliability.
+  * Developed firmware for Carel controllers and VKool precision air conditioners, resulting in improved performance and reliability.
 * V-Calselector Development
-  * Led the development of V-Calselector software.
-  * Created a user-friendly interface for quick information retrieval.
-  * Integrated with the company's database for accurate and up-to-date information.
+  * Led the development of V-Calselector software, creating a user-friendly interface for quick information retrieval.
+  * Integrated the software with the company's database for accurate and up-to-date information.
 * Website, Data, and Security Infrastructure
   * Designed and managed the company's website, data, and security infrastructure.
-  * Migrated the website to a new Rust-based platform.
+  * Successfully migrated the website to a new Rust-based platform.  
 
 **Automation Engineer**  
 [ITC Technology JSC]  
 [Hanoi, Vietnam]  
 [2018-2022]
-
+ 
 * Automatic Fire Alarm Project
-  * Developed the firmware and software for a new automatic fire alarm system.
-  * Installed and tested the system at a large commercial building, mega mall and factory.
+  * Developed firmware and software for a new automatic fire alarm system.
+  * Installed and tested the system at a large commercial building, mega mall, and factory.
 * BMS Project
-  * Developed the software for a new building management system.
+  * Developed software for a new building management system.
   * Implemented the system at a new residential development.
 * Internal Software Tool
-  * Developed a new software tool to automate the company's procurement process.
+  * Developed software tool to automate the company's procurement process, improving efficiency and accuracy.
 
 **Software Engineer**  
 [Personal Portfolio]  
 [Bac Ninh, Vietnam]  
 [2018-]
 
-* Investment Portfolio Allocation and Cryptocurrency Trading Bot: Automatically allocate investment portfolios and trade cryptocurrencies on Binance use Google Cloud Platform VSP.
-* Polkalance: Developed a decentralized job marketplace built on Substrate and ink!. The platform allows users to post and find jobs securely and transparently. [Polkalance](https://polkalance.vercel.app/)
-* Sofle Keyboard: Built a custom mechanical keyboard using the Sofle keyboard kit.
+* Investment Portfolio Allocation and Cryptocurrency Trading Bot
+  * Automated the allocation of investment portfolios and trading of cryptocurrencies on Binance using Google Cloud Platform VSP.
+* Polkalance
+  * Developed a decentralized job marketplace built on Substrate and ink!, providing a secure and transparent platform for job seekers and employers. Polkalance
+* Sofle Keyboard
+  * Built a custom mechanical keyboard using the Sofle keyboard kit.
 * And more ...
-
 # Education
 
 [B.A. Electronics Engineer]  
@@ -89,13 +89,13 @@ csl: apa-cv.csl
 
 <!-- ::: {#refs-tech_skills}
 ::: -->
-* OS: Window, **Linux**.
-* System programming languages: **Rust**, **Python**, C++, C#.
-* Automation PLC programming languages: Structured Text, FBD.
+* Operationg Systems: Window, **Linux**.
+* Programming Languages: **Rust**, **Python**, C++, C#.
+* Automation PLC Programming Languages: Structured Text, FBD.
 * AI Search Tools: **Google Bard AI**, Phind.
 * AI Developer Tools: CodiumAI.
 * Databases: SQLite.
-* Front-end frameworks: **Leptos**, Tailwind CSS, Nextjs.
+* Front-end Frameworks: **Leptos**, Tailwind CSS, Nextjs.
 * Cloud platforms: GCP, Fly.io, Synology.
 * Technology Tools: **Docker**, **Github**
 * IDE: Visual Studio Code, **Helix**.
