@@ -20,102 +20,84 @@ github: kienngynh # github account
 web: linkedin.com/in/kienbk60
 fontawesome: yes
 nocite: '@*'
-# bibliography: 
-#   peer: peer_bib.bib
-#   tech_skills: tech_skills_bib.bib
+# bibliography: 
+#  peer: peer_bib.bib
+#  tech_skills: tech_skills_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Sumary
+# Profile
 
-- Interested in embedded systems, IoT, and automation.
-- Ability to use Rust, Python, C#, C++ and PLC programing language.
-- Knowledge about blockchain and crypto finance.
-- Imbued with a passion for self-learning and improvement.
-
-# Experience
-
-**Application Software Manager**  
-[ITC Technology JSC]  
-[Bac Ninh, Vietnam]  
-[2022-]
-
-* PLC Firmware Development
-  * Developed firmware for Carel controllers and VKool precision air conditioners, resulting in improved performance and reliability.
-* V-Calselector Development
-  * Led the development of V-Calselector software, creating a user-friendly interface for quick information retrieval.
-  * Integrated the software with the company's database for accurate and up-to-date information.
-* Website, Data, and Security Infrastructure
-  * Designed and managed the company's website, data, and security infrastructure.
-  * Successfully migrated the website to a new Rust-based platform.  
-
-**Automation Engineer**  
-[ITC Technology JSC]  
-[Hanoi, Vietnam]  
-[2018-2022]
- 
-* Automatic Fire Alarm Project
-  * Developed firmware and software for a new automatic fire alarm system.
-  * Installed and tested the system at a large commercial building, mega mall, and factory.
-* BMS Project
-  * Developed software for a new building management system.
-  * Implemented the system at a new residential development.
-* Internal Software Tool
-  * Developed software tool to automate the company's procurement process, improving efficiency and accuracy.
-
-**Software Engineer**  
-[Personal Portfolio]  
-[Bac Ninh, Vietnam]  
-[2018-]
-
-* Investment Portfolio Allocation and Cryptocurrency Trading Bot
-  * Automated the allocation of investment portfolios and trading of cryptocurrencies on Binance using Google Cloud Platform VSP.
-* Polkalance
-  * Developed a decentralized job marketplace built on Substrate and ink!, providing a secure and transparent platform for job seekers and employers. Polkalance
-* Sofle Keyboard
-  * Built a custom mechanical keyboard using the Sofle keyboard kit.
-* And more ...
-
-# Education
-
-[B.A. Electronics Engineer]  
-[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]  
-[Hanoi, Vietnam]  
-[2015-2020]
+A passionate Blockchain Developer with experience in embedded systems, IoT, and automation. Possesses strong programming skills in Rust, Python, C#, C++, and PLC languages. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 
 # Skills
 
-## Technical Skills
+## Blockchain
 
-<!-- ::: {#refs-tech_skills}
-::: -->
-* Operationg Systems: Window, **Linux**.
-* Programming Languages: **Rust**, **Python**, C++, C#.
-* Automation PLC Programming Languages: Structured Text, FBD.
-* AI Search Tools: **Google Bard AI**, Phind.
-* AI Developer Tools: CodiumAI.
-* Databases: SQLite.
-* Web Frameworks: **Leptos**, Tailwind CSS, Next.js.
-* Cloud platforms: GCP, Fly.io, Synology.
-* Technology Tools: **Docker**, **Github**, **Cargo**, **Pip**
-* IDE: Visual Studio Code, **Helix**.
-* Document Tools: **Quarto**, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart.
+* Experience with popular blockchain platforms like Solana, and Polkadot.
+* Understanding of smart contracts, consensus mechanisms, and cryptography.
+* Proficient in writing and deploying decentralized applications (dApps).
+
+## Programming Languages
+
+* **Expert:** Rust, Python
+* **Proficient:** C++, C#
+* **Familiar:** PLC languages (Structured Text, FBD)
+
+## Other Technical Skills
+
+* Operating Systems: Linux, Windows
+* Web Development: Leptos, Tailwind CSS, Next.js
+* Cloud Platforms: GCP, Fly.io, Synology
+* DevOps Tools: Docker, Github, Cargo, Pip
+* IDEs: Visual Studio Code, Helix
+* Documentation Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart
 
 ## Soft Skills
 
-* Communication: Ensures everyone is heard and on the same page, keeping conversations productive and engaging.
-* Teamwork: Values strong relationships and collaborative spirit.
-* Self-learning: Proactively seeks out new knowledge and skills to adapt to evolving environments and stay relevant.
-* Technical Writing: Translates complex technical information into clear, concise documents.
+* Excellent communication and teamwork skills.
+* Highly motivated and self-directed learner.
+* Adaptable and eager to take on new challenges.
+* Problem-solving and analytical skills.
 
-<!-- # Projects
+# Experience
 
-::: {#refs-peer}
-::: -->
+**Blockchain Developer** (Freelance)  
+[Bac Ninh, Vietnam]  
+[2023-Present]
 
-# Interest
+* Developed and deployed smart contracts for various DeFi projects.
+* Built a decentralized marketplace on the Polygon network.
+* Contributed to open-source blockchain projects.
 
-* Team player game
-* Walking
-* Reading
+**Application Software Manager**  
+[ITC Technology JSC]  
+[Bac Ninh, Vietnam]  
+[2022-]
+
+* Successfully migrated the company website to a new Rust-based platform.
+* Developed firmware for controllers and air conditioners, improving performance and reliability.
+* Led the development of user-friendly software for internal processes.
+
+**Automation Engineer**  
+[ITC Technology JSC]  
+[Hanoi, Vietnam]  
+[2018-2022]
+
+* Developed firmware and software for new fire alarm and building management systems.
+* Implemented automation solutions to improve efficiency and accuracy.
+
+# Education
+
+[B.A. Electronics Engineer]  
+[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]  
+[Hanoi, Vietnam]  
+[2015-2020]
+
+# Interests
+
+* Open-source contributions
+* Building innovative blockchain applications
+* Staying updated on the latest advancements in the field
+* Learning new programming languages and technologies
