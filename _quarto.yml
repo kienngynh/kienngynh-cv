@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "CV"
+  title: "NGUYEN HUU KIEN"
   navbar:
     right:
       - about.qmd
