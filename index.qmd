@@ -69,7 +69,6 @@ A passionate Blockchain Developer with experience in embedded systems, IoT, and 
 
 * Developed and deployed smart contracts for various DeFi projects.
 * Built a decentralized marketplace on the Polygon network.
-* Contributed to open-source blockchain projects.
 
 **Application Software Manager**  
 [ITC Technology JSC]  
