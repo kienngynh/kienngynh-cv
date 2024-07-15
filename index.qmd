@@ -29,13 +29,20 @@ csl: apa-cv.csl
 
 # Profile
 
-A passionate Blockchain Developer with experience in embedded systems, IoT, and automation. Possesses strong programming skills in Rust, Python, C#, C++, and PLC languages. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
+A passionate Engineer with experience in embedded systems, IoT, and automation. Possesses strong programming skills in Rust, Python, C#, C++, and PLC languages. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 
 # Skills
 
+## Embedded Systems
+
+* Experience in designing, developing, and debugging firmware for microcontrollers and microprocessors.
+* Extensive experience with communication protocols including I2C, SPI, UART, Modbus, BACnet and Ethernet.
+* Knowledgeable in power management, signal processing, and sensor interfacing.
+* Skilled in embedded Linux development, including kernel customization, driver development, and user-space applications.
+
 ## Blockchain
 
-* Experience with popular blockchain platforms like Solana, and Polkadot.
+* Experience with popular blockchain platforms Polkadot.
 * Understanding of smart contracts, consensus mechanisms, and cryptography.
 * Proficient in writing and deploying decentralized applications (dApps).
 
@@ -48,11 +55,10 @@ A passionate Blockchain Developer with experience in embedded systems, IoT, and 
 ## Other Technical Skills
 
 * Operating Systems: Linux, Windows
-* Web Development: Leptos, Tailwind CSS, Next.js
 * Cloud Platforms: GCP, Fly.io, Synology
-* DevOps Tools: Docker, Github, Cargo, Pip
-* IDEs: Visual Studio Code, Helix
-* Documentation Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart
+* DevOps Tools: Docker, GitHub, Cargo, Pip
+* IDEs: Neovim 
+* Documentation Tools: Quarto, Mermaid Chart
 
 ## Soft Skills
 
@@ -60,43 +66,43 @@ A passionate Blockchain Developer with experience in embedded systems, IoT, and 
 * Highly motivated and self-directed learner.
 * Adaptable and eager to take on new challenges.
 * Problem-solving and analytical skills.
+* English proficient for reading and listening, Chinese basic.
 
 # Experience
 
-**Blockchain Developer** (Freelance)  
-[Bac Ninh, Vietnam]  
+**Blockchain Developer** (Freelance)
+[Bacninh, Vietnam]
 [2023-Present]
 
 * Developed and deployed smart contracts for various DeFi projects.
 * Built a decentralized marketplace on the Polygon network.
 
-**Application Software Manager**  
-[ITC Technology JSC]  
-[Bac Ninh, Vietnam]  
+**Application Software Manager**
+[ITC Technology JSC]
+[Bacninh, Vietnam]
 [2022-]
 
 * Successfully migrated the company website to a new Rust-based platform.
 * Developed firmware for controllers and air conditioners, improving performance and reliability.
 * Led the development of user-friendly software for internal processes.
 
-**Automation Engineer**  
-[ITC Technology JSC]  
-[Hanoi, Vietnam]  
+**Automation Engineer**
+[ITC Technology JSC]
+[Hanoi, Vietnam]
 [2018-2022]
 
-* Developed firmware and software for new fire alarm and building management systems.
+* Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 
 # Education
 
-[B.A. Electronics Engineer]  
-[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]  
-[Hanoi, Vietnam]  
+[B.A. Electronics Engineer]
+[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
+[Hanoi, Vietnam]
 [2015-2020]
 
 # Interests
 
-* Open-source contributions
 * Building innovative blockchain applications
 * Staying updated on the latest advancements in the field
 * Learning new programming languages and technologies
