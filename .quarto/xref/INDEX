@@ -15,5 +15,14 @@
   },
   "LICENSE.md": {
     "LICENSE.html": "f386d738"
+  },
+  "index_vi.qmd": {
+    "index_vi.html": "c0d86a2d"
+  },
+  "index_en.qmd": {
+    "index_en.html": "225058b9"
+  },
+  "index_zh.qmd": {
+    "index_zh.html": "5e523937"
   }
 }

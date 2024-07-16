@@ -4,35 +4,49 @@
     "href": "index.html",
     "title": "Curriculum vitae",
     "section": "",
-    "text": "A passionate Blockchain Developer with experience in embedded systems, IoT, and automation. Possesses strong programming skills in Rust, Python, C#, C++, and PLC languages. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges."
+    "text": "A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges."
+  },
+  {
+    "objectID": "index.html#embedded",
+    "href": "index.html#embedded",
+    "title": "Curriculum vitae",
+    "section": "Embedded",
+    "text": "Embedded\n\nExperienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.\nFamiliar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.\nKnowledgeable in power management, signal processing, and sensor interfacing."
   },
   {
     "objectID": "index.html#blockchain",
     "href": "index.html#blockchain",
     "title": "Curriculum vitae",
     "section": "Blockchain",
-    "text": "Blockchain\n\nExperience with popular blockchain platforms like Solana, and Polkadot.\nUnderstanding of smart contracts, consensus mechanisms, and cryptography.\nProficient in writing and deploying decentralized applications (dApps)."
+    "text": "Blockchain\n\nParticipated in projects with the well-known blockchain platform Polkadot.\nBasic understanding of smart contracts, consensus mechanisms, and cryptography.\nCapable of writing and deploying decentralized applications (dApps)."
+  },
+  {
+    "objectID": "index.html#automation",
+    "href": "index.html#automation",
+    "title": "Curriculum vitae",
+    "section": "Automation",
+    "text": "Automation\n\nInvolved in developing and implementing automation solutions for various applications.\nExperience with PLC programming and industrial automation systems.\nAble to integrate automation technologies to improve efficiency and accuracy."
   },
   {
     "objectID": "index.html#programming-languages",
     "href": "index.html#programming-languages",
     "title": "Curriculum vitae",
     "section": "Programming Languages",
-    "text": "Programming Languages\n\nExpert: Rust, Python\nProficient: C++, C#\nFamiliar: PLC languages (Structured Text, FBD)"
+    "text": "Programming Languages\n\nExpert: Rust, Python\nProficient: C++, C#\nFamiliar: PLC languages (Structured Text, Function Block Diagram)"
   },
   {
-    "objectID": "index.html#other-technical-skills",
-    "href": "index.html#other-technical-skills",
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
     "title": "Curriculum vitae",
-    "section": "Other Technical Skills",
-    "text": "Other Technical Skills\n\nOperating Systems: Linux, Windows\nWeb Development: Leptos, Tailwind CSS, Next.js\nCloud Platforms: GCP, Fly.io, Synology\nDevOps Tools: Docker, Github, Cargo, Pip\nIDEs: Visual Studio Code, Helix\nDocumentation Tools: Quarto, Jupyter Notebook, Typst, Notion, Rmarkdown, Mermaid Chart"
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nOperating Systems: Linux, Windows\nCloud Platforms: GCP, Fly.io, Synology\nDatabases: SQLite, PostgreSQL\nDevOps Tools: Docker, GitHub, Cargo, Pip\nIDEs: Neovim\nDocumentation Tools: Quarto, Markdown, Mermaid Chart\nDesign & Simulation Tools: FreeCAD, KiCad, OpenFOAM"
   },
   {
     "objectID": "index.html#soft-skills",
     "href": "index.html#soft-skills",
     "title": "Curriculum vitae",
     "section": "Soft Skills",
-    "text": "Soft Skills\n\nExcellent communication and teamwork skills.\nHighly motivated and self-directed learner.\nAdaptable and eager to take on new challenges.\nProblem-solving and analytical skills."
+    "text": "Soft Skills\n\nExcellent communication and teamwork skills.\nHighly motivated and self-directed learner.\nAdaptable and eager to take on new challenges.\nProblem-solving and analytical skills.\nEnglish proficient for reading and listening, Chinese basic."
   },
   {
     "objectID": "LICENSE.html",

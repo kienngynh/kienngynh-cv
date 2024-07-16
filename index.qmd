@@ -9,56 +9,53 @@ phone: (+84)559261197
 address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province, Vietnam"
 email: kienngynh@gmail.com
 fontsize: 11pt
-# fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
-# mainfont: Ubuntu # if you want to use a different locally installed font
-# CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: kienngynh # github account
-# orcid: 0000-0002-1825-0097 # orcid identifier
-# osf: ymqui # osf five character id
-# twitter: Tulip_BK # twitter handle
-# linkedin: kienbk60
 web: linkedin.com/in/kienbk60
 fontawesome: yes
 nocite: '@*'
-# bibliography: 
-#  peer: peer_bib.bib
-#  tech_skills: tech_skills_bib.bib
 validate-yaml: false
 csl: apa-cv.csl
 ---
 
 # Profile
 
-A passionate Engineer with experience in embedded systems, IoT, and automation. Possesses strong programming skills in Rust, Python, C#, C++, and PLC languages. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
+A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 
 # Skills
 
-## Embedded Systems
+## Embedded
 
-* Experience in designing, developing, and debugging firmware for microcontrollers and microprocessors.
-* Extensive experience with communication protocols including I2C, SPI, UART, Modbus, BACnet and Ethernet.
+* Experienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.
+* Familiar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.
 * Knowledgeable in power management, signal processing, and sensor interfacing.
-* Skilled in embedded Linux development, including kernel customization, driver development, and user-space applications.
 
 ## Blockchain
 
-* Experience with popular blockchain platforms Polkadot.
-* Understanding of smart contracts, consensus mechanisms, and cryptography.
-* Proficient in writing and deploying decentralized applications (dApps).
+* Participated in projects with the well-known blockchain platform Polkadot.
+* Basic understanding of smart contracts, consensus mechanisms, and cryptography.
+* Capable of writing and deploying decentralized applications (dApps).
+
+## Automation
+
+* Involved in developing and implementing automation solutions for various applications.
+* Experience with PLC programming and industrial automation systems.
+* Able to integrate automation technologies to improve efficiency and accuracy.
 
 ## Programming Languages
 
 * **Expert:** Rust, Python
 * **Proficient:** C++, C#
-* **Familiar:** PLC languages (Structured Text, FBD)
+* **Familiar:** PLC languages (Structured Text, Function Block Diagram)
 
-## Other Technical Skills
+## Technical Skills
 
-* Operating Systems: Linux, Windows
+* Operating Systems: _Linux_, Windows
 * Cloud Platforms: GCP, Fly.io, Synology
+* Databases: SQLite, PostgreSQL
 * DevOps Tools: Docker, GitHub, Cargo, Pip
 * IDEs: Neovim 
-* Documentation Tools: Quarto, Mermaid Chart
+* Documentation Tools: Quarto, Markdown, Mermaid Chart
+* Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
 
 ## Soft Skills
 
@@ -103,6 +100,6 @@ A passionate Engineer with experience in embedded systems, IoT, and automation. 
 
 # Interests
 
-* Building innovative blockchain applications
-* Staying updated on the latest advancements in the field
-* Learning new programming languages and technologies
+* Participating in team-based computer games
+* Exploring new places through travel, walking, and hiking
+* Designing and building DIY gadgets
