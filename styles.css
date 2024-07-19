@@ -1,1 +1,14 @@
 /* css styles */
+.column-page-left,
+.column-page-right {
+  float: left;
+  width: 45%;  /* Adjust width as needed */
+  padding: 0 2%;  /* Adjust padding/margin for spacing */
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}

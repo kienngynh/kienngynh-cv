@@ -1,0 +1,501 @@
+% CV ----
+
+
+\documentclass[
+]
+{article}
+
+\PassOptionsToPackage{space}{xeCJK}
+
+% default font
+\usepackage{ebgaramond-maths}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+
+\usepackage[lf]{electrum}
+%\usepackage[T1]{fontenc}
+% xetex/luatex font selection
+  \setmainfont[]{Ubuntu}
+
+
+
+
+    \setmainfont[]{Ubuntu}
+  \ifXeTeX
+    \usepackage{xeCJK}
+    \setCJKmainfont[]{Noto Sans CJK JP}
+          \fi
+  \ifLuaTeX
+    \usepackage[]{luatexja-fontspec}
+    \setmainjfont[]{Noto Sans CJK JP}
+  \fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+% TODO: Add custom LaTeX header directives here
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{sidenotes}{}{\usepackage{sidenotes}}
+\@ifpackageloaded{marginnote}{}{\usepackage{marginnote}}
+\makeatother
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+% \usepackage{titlesec}
+% \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{12pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome5}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\scriptsize  Nguyen Huu Kien \textbar{} 阮有坚 - Curriculum vitae
+\textbar{} 简历 - \apstylekinda\today}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Nguyen Huu Kien \textbar{} 阮有坚:  Curriculum vitae \textbar{} 简历 (Curriculum Vitae)},
+            pdfauthor={Nguyen Huu Kien \textbar{} 阮有坚},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+% \emph{Updated:} \apstylekinda\today
+% ^ removed from that front bar.
+
+\usepackage{orcidlink}
+%\usepackage{academicons}
+%\definecolor{orcidlogocol}{HTML}{A6CE39}
+% \newcommand{\orcid}[1]{\href{https://orcid.org/#1}{\textcolor[HTML]{A6CE39}{\aiOrcid}}}
+
+\begin{document}
+
+
+\centerline{\huge \bf Nguyen Huu Kien \textbar{} 阮有坚}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+
+\moveleft.5\hoffset\centerline{Lung Giang Ward · Lim Town · Tien Du
+District · Bac Ninh Province · Vietnam \textbar{} 越南 · 北宁省 · 仙游县
+· 仙游县 · 林镇 · 陇江村}
+\moveleft.5\hoffset\centerline{ \faEnvelope \hspace{1 mm} \href{mailto:}{\tt kienngynh@gmail.com} \hspace{1 mm}  \faPhone \hspace{1 mm}  (+84)559261197  \hspace{1 mm}  \faGithub \hspace{1 mm} \href{http://github.com/kienngynh}{\tt kienngynh} \hspace{1 mm}      \faGlobe \hspace{1 mm} \href{http://linkedin.com/in/kienbk60}{\tt linkedin.com/in/kienbk60}      }
+
+
+
+\vspace{2 mm}
+
+\hrule
+
+
+
+\section{Profile \textbar{}
+个人简介}\label{profile-ux4e2aux4ebaux7b80ux4ecb}
+
+A passionate Engineer with experience in embedded systems, blockchain
+technology and automation. Eager to contribute to innovative projects
+and leverage blockchain technology to solve real-world challenges.
+
+\begin{figure*}
+
+一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。
+
+\end{figure*}%
+
+\section{Skills \textbar{} 技能}\label{skills-ux6280ux80fd}
+
+\subsection{Embedded \textbar{}
+嵌入式}\label{embedded-ux5d4cux5165ux5f0f}
+
+\begin{itemize}
+\tightlist
+\item
+  Experienced in designing, developing, and debugging firmware for
+  microcontrollers and microprocessors.
+\item
+  Familiar with communication protocols such as I2C, SPI, UART, Modbus,
+  BACnet, and Ethernet.
+\item
+  Knowledgeable in power management, signal processing, and sensor
+  interfacing.
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  在设计、开发和调试微控制器和微处理器固件方面有丰富经验。
+\item
+  熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。
+\item
+  了解电源管理、信号处理和传感器接口。
+\end{itemize}
+
+\end{figure*}%
+
+\subsection{Blockchain \textbar{}
+区块链}\label{blockchain-ux533aux5757ux94fe}
+
+\begin{itemize}
+\tightlist
+\item
+  Participated in projects with the well-known blockchain platform
+  Polkadot.
+\item
+  Basic understanding of smart contracts, consensus mechanisms, and
+  cryptography.
+\item
+  Capable of writing and deploying decentralized applications (dApps).
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  参与了知名区块链平台Polkadot的项目。
+\item
+  对智能合约、共识机制和加密技术有基本了解。
+\item
+  能够编写和部署去中心化应用（dApps）。
+\end{itemize}
+
+\end{figure*}%
+
+\subsection{Automation \textbar{}
+自动化}\label{automation-ux81eaux52a8ux5316}
+
+\begin{itemize}
+\tightlist
+\item
+  Involved in developing and implementing automation solutions for
+  various applications.
+\item
+  Experience with PLC programming and industrial automation systems.
+\item
+  Able to integrate automation technologies to improve efficiency and
+  accuracy.
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  参与开发和实施各种应用的自动化解决方案。
+\item
+  有PLC编程和工业自动化系统经验。
+\item
+  能够集成自动化技术以提高效率和准确性。
+\end{itemize}
+
+\end{figure*}%
+
+\subsection{Programming Languages \textbar{}
+编程语言}\label{programming-languages-ux7f16ux7a0bux8bedux8a00}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Expert:} Rust, Python
+\item
+  \textbf{Proficient:} C++, C\#
+\item
+  \textbf{Familiar:} PLC languages (Structured Text, Function Block
+  Diagram)
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{精通:} Rust, Python
+\item
+  \textbf{熟练:} C++, C\#
+\item
+  \textbf{了解:} PLC语言（结构化文本，功能块图）
+\end{itemize}
+
+\end{figure*}%
+
+\subsection{Technical Skills \textbar{}
+技术技能}\label{technical-skills-ux6280ux672fux6280ux80fd}
+
+\begin{itemize}
+\tightlist
+\item
+  Operating Systems: \emph{Linux}, Windows
+\item
+  Cloud Platforms: GCP, Fly.io, Synology
+\item
+  Databases: SQLite, PostgreSQL
+\item
+  DevOps Tools: Docker, GitHub, Cargo, Pip
+\item
+  Documentation Tools: Quarto, Markdown, Mermaid Chart
+\item
+  Design \& Simulation Tools: FreeCAD, KiCad, OpenFOAM
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  操作系统: \emph{Linux}, Windows
+\item
+  云平台: GCP, Fly.io, Synology
+\item
+  数据库: SQLite, PostgreSQL
+\item
+  DevOps工具: Docker, GitHub, Cargo, Pip
+\item
+  文档工具: Quarto, Markdown, Mermaid Chart
+\item
+  设计和仿真工具: FreeCAD, KiCad, OpenFOAM
+\end{itemize}
+
+\end{figure*}%
+
+\subsection{Soft Skills \textbar{}
+软技能}\label{soft-skills-ux8f6fux6280ux80fd}
+
+\begin{itemize}
+\tightlist
+\item
+  Excellent communication and teamwork skills.
+\item
+  Highly motivated and self-directed learner.
+\item
+  Adaptable and eager to take on new challenges.
+\item
+  Problem-solving and analytical skills.
+\item
+  English proficient for reading and listening, Chinese basic.
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  优秀的沟通和团队合作能力。
+\item
+  高度自我激励和自主学习能力。
+\item
+  适应性强，渴望接受新挑战。
+\item
+  问题解决和分析能力。
+\item
+  英语阅读和听力熟练，中文基础。
+\end{itemize}
+
+\end{figure*}%
+
+\section{Experience \textbar{}
+工作经验}\label{experience-ux5de5ux4f5cux7ecfux9a8c}
+
+\textbf{Blockchain Developer} (Freelance) {[}Bacninh, Vietnam{]}
+{[}02/2023-Present{]} * Developed and deployed smart contracts for
+various DeFi projects. * Built a decentralized marketplace on the
+Polygon network.
+
+\textbf{Application Software Manager} {[}ITC Technology JSC{]}
+{[}Bacninh, Vietnam{]} {[}05/2023-Present{]} * Successfully migrated the
+company website to a new Rust-based platform. * Developed firmware for
+controllers and air conditioners, improving performance and reliability.
+* Led the development of user-friendly software for internal processes.
+
+\textbf{Automation Engineer} {[}ITC Technology JSC{]} {[}Hanoi,
+Vietnam{]} {[}08/2018-05/2023{]} * Developed firmware and software for
+new fire alarms and building management systems. * Implemented
+automation solutions to improve efficiency and accuracy.
+
+\begin{figure*}
+
+\textbf{区块链开发者} (自由职业) {[}越南北宁{]} {[}02/2023年至今{]} *
+为各种DeFi项目开发和部署智能合约。 * 在Polygon网络上构建去中心化市场。
+
+\textbf{应用软件经理} {[}ITC科技股份公司{]} {[}越南北宁{]}
+{[}05/2023年至今{]} * 成功将公司网站迁移到新的基于Rust的平台。 *
+为控制器和空调开发固件，提高性能和可靠性。 *
+领导开发用户友好的内部流程软件。
+
+\textbf{自动化工程师} {[}ITC科技股份公司{]} {[}越南河内{]}
+{[}08/2018-05/2023{]} * 为新的火警和楼宇管理系统开发固件和软件。 *
+实施自动化解决方案以提高效率和准确性。
+
+\end{figure*}%
+
+\section{Education \textbar{}
+教育背景}\label{education-ux6559ux80b2ux80ccux666f}
+
+{[}B.A. Electronics Engineer{]} {[}\emph{The School of Electronics and
+Telecom, Hanoi University of Science and Technology}{]} {[}Hanoi,
+Vietnam{]} {[}08/2015-08/2020{]}
+
+\begin{figure*}
+
+{[}电子工程学士{]} {[}\emph{河内科技大学电子与通信学院}{]}
+{[}越南河内{]} {[}08/2015-08/2020{]}
+
+\end{figure*}%
+
+\section{Interests \textbar{}
+兴趣爱好}\label{interests-ux5174ux8da3ux7231ux597d}
+
+\begin{itemize}
+\tightlist
+\item
+  Participating in team-based computer games
+\item
+  Exploring new places through travel, walking, and hiking
+\item
+  Designing and building DIY gadgets
+\end{itemize}
+
+\begin{figure*}
+
+\begin{itemize}
+\tightlist
+\item
+  参与团队电脑游戏
+\item
+  通过旅行、步行和徒步探索新地方
+\item
+  设计和制作DIY小工具
+\end{itemize}
+
+\end{figure*}%
+
+\end{document}

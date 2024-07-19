@@ -24,5 +24,9 @@
   },
   "index_zh.qmd": {
     "index_zh.html": "5e523937"
+  },
+  "index_old.qmd": {
+    "index_old.tex": "c053f56c",
+    "index_old.html": "ea246984"
   }
 }
