@@ -66,6 +66,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 **Blockchain Developer** (Freelance)
 [Bacninh, Vietnam]
 [02/2023-Present]
+
 * Developed and deployed smart contracts for various DeFi projects.
 * Built a decentralized marketplace on the Polygon network.
 
@@ -73,6 +74,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 [ITC Technology JSC]
 [Bacninh, Vietnam]
 [05/2023-Present]
+
 * Successfully migrated the company website to a new Rust-based platform.
 * Developed firmware for controllers and air conditioners, improving performance and reliability.
 * Led the development of user-friendly software for internal processes.
@@ -81,6 +83,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 [ITC Technology JSC]
 [Hanoi, Vietnam]
 [08/2018-05/2023]
+
 * Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 
@@ -142,6 +145,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 **区块链开发者** (自由职业)
 [越南北宁]
 [02/2023年至今]
+
 * 为各种DeFi项目开发和部署智能合约。
 * 在Polygon网络上构建去中心化市场。
 
@@ -149,6 +153,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 [ITC科技股份公司]
 [越南北宁]
 [05/2023年至今]
+
 * 成功将公司网站迁移到新的基于Rust的平台。
 * 为控制器和空调开发固件，提高性能和可靠性。
 * 领导开发用户友好的内部流程软件。
@@ -157,6 +162,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 [ITC科技股份公司]
 [越南河内]
 [08/2018-05/2023]
+
 * 为新的火警和楼宇管理系统开发固件和软件。
 * 实施自动化解决方案以提高效率和准确性。
 
