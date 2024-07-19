@@ -32,49 +32,49 @@
     "href": "index.html",
     "title": "Curriculum vitae | 简历",
     "section": "",
-    "text": "A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.\n一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。"
+    "text": "A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.\n\n\n一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。"
   },
   {
     "objectID": "index.html#embedded-嵌入式",
     "href": "index.html#embedded-嵌入式",
     "title": "Curriculum vitae | 简历",
     "section": "Embedded | 嵌入式",
-    "text": "Embedded | 嵌入式\n\nExperienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.\nFamiliar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.\nKnowledgeable in power management, signal processing, and sensor interfacing.\n在设计、开发和调试微控制器和微处理器固件方面有丰富经验。\n熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。\n了解电源管理、信号处理和传感器接口。"
+    "text": "Embedded | 嵌入式\n\n\nExperienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.\nFamiliar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.\nKnowledgeable in power management, signal processing, and sensor interfacing.\n\n\n\n\n在设计、开发和调试微控制器和微处理器固件方面有丰富经验。\n熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。\n了解电源管理、信号处理和传感器接口。"
   },
   {
     "objectID": "index.html#blockchain-区块链",
     "href": "index.html#blockchain-区块链",
     "title": "Curriculum vitae | 简历",
     "section": "Blockchain | 区块链",
-    "text": "Blockchain | 区块链\n\nParticipated in projects with the well-known blockchain platform Polkadot.\nBasic understanding of smart contracts, consensus mechanisms, and cryptography.\nCapable of writing and deploying decentralized applications (dApps).\n参与了知名区块链平台Polkadot的项目。\n对智能合约、共识机制和加密技术有基本了解。\n能够编写和部署去中心化应用（dApps）。"
+    "text": "Blockchain | 区块链\n\n\nParticipated in projects with the well-known blockchain platform Polkadot.\nBasic understanding of smart contracts, consensus mechanisms, and cryptography.\nCapable of writing and deploying decentralized applications (dApps).\n\n\n\n\n参与了知名区块链平台Polkadot的项目。\n对智能合约、共识机制和加密技术有基本了解。\n能够编写和部署去中心化应用（dApps）。"
   },
   {
     "objectID": "index.html#automation-自动化",
     "href": "index.html#automation-自动化",
     "title": "Curriculum vitae | 简历",
     "section": "Automation | 自动化",
-    "text": "Automation | 自动化\n\nInvolved in developing and implementing automation solutions for various applications.\nExperience with PLC programming and industrial automation systems.\nAble to integrate automation technologies to improve efficiency and accuracy.\n参与开发和实施各种应用的自动化解决方案。\n有PLC编程和工业自动化系统经验。\n能够集成自动化技术以提高效率和准确性。"
+    "text": "Automation | 自动化\n\n\nInvolved in developing and implementing automation solutions for various applications.\nExperience with PLC programming and industrial automation systems.\nAble to integrate automation technologies to improve efficiency and accuracy.\n\n\n\n\n参与开发和实施各种应用的自动化解决方案。\n有PLC编程和工业自动化系统经验。\n能够集成自动化技术以提高效率和准确性。"
   },
   {
     "objectID": "index.html#programming-languages-编程语言",
     "href": "index.html#programming-languages-编程语言",
     "title": "Curriculum vitae | 简历",
     "section": "Programming Languages | 编程语言",
-    "text": "Programming Languages | 编程语言\n\nExpert | 精通: Rust, Python\nProficient | 熟练: C++, C#\nFamiliar | 了解: PLC languages (Structured Text, Function Block Diagram) | PLC语言（结构化文本、功能块图）"
+    "text": "Programming Languages | 编程语言\n\n\nExpert: Rust, Python\nProficient: C++, C#\nFamiliar: PLC languages (Structured Text, Function Block Diagram)\n\n\n\n\n精通: Rust, Python\n熟练: C++, C#\n了解: PLC语言（结构化文本，功能块图）"
   },
   {
     "objectID": "index.html#technical-skills-技术技能",
     "href": "index.html#technical-skills-技术技能",
     "title": "Curriculum vitae | 简历",
     "section": "Technical Skills | 技术技能",
-    "text": "Technical Skills | 技术技能\n\nOperating Systems | 操作系统: Linux, Windows\nCloud Platforms | 云平台: GCP, Fly.io, Synology\nDatabases | 数据库: SQLite, PostgreSQL\nDevOps Tools | DevOps工具: Docker, GitHub, Cargo, Pip\nDocumentation Tools | 文档工具: Quarto, Markdown, Mermaid Chart\nDesign & Simulation Tools | 设计和仿真工具: FreeCAD, KiCad, OpenFOAM"
+    "text": "Technical Skills | 技术技能\n\n\nOperating Systems: Linux, Windows\nCloud Platforms: GCP, Fly.io, Synology\nDatabases: SQLite, PostgreSQL\nDevOps Tools: Docker, GitHub, Cargo, Pip\nDocumentation Tools: Quarto, Markdown, Mermaid Chart\nDesign & Simulation Tools: FreeCAD, KiCad, OpenFOAM\n\n\n\n\n操作系统: Linux, Windows\n云平台: GCP, Fly.io, Synology\n数据库: SQLite, PostgreSQL\nDevOps工具: Docker, GitHub, Cargo, Pip\n文档工具: Quarto, Markdown, Mermaid Chart\n设计和仿真工具: FreeCAD, KiCad, OpenFOAM"
   },
   {
     "objectID": "index.html#soft-skills-软技能",
     "href": "index.html#soft-skills-软技能",
     "title": "Curriculum vitae | 简历",
     "section": "Soft Skills | 软技能",
-    "text": "Soft Skills | 软技能\n\nExcellent communication and teamwork skills.\nHighly motivated and self-directed learner.\nAdaptable and eager to take on new challenges.\nProblem-solving and analytical skills.\nEnglish proficient for reading and listening, Chinese basic.\n优秀的沟通和团队合作能力。\n高度自我激励和自主学习能力。\n适应性强，渴望接受新挑战。\n问题解决和分析能力。\n英语阅读和听力熟练，中文基础。"
+    "text": "Soft Skills | 软技能\n\n\nExcellent communication and teamwork skills.\nHighly motivated and self-directed learner.\nAdaptable and eager to take on new challenges.\nProblem-solving and analytical skills.\nEnglish proficient for reading and listening, Chinese basic.\n\n\n\n\n优秀的沟通和团队合作能力。\n高度自我激励和自主学习能力。\n适应性强，渴望接受新挑战。\n问题解决和分析能力。\n英语阅读和听力熟练，中文基础。"
   },
   {
     "objectID": "about.html",
