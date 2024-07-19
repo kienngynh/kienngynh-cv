@@ -22,10 +22,10 @@ csl: apa-cv.csl
 # Profile | 个人简介
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。
 :::
 ::::
@@ -34,12 +34,12 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 ## Embedded | 嵌入式
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Experienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.
 * Familiar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.
 * Knowledgeable in power management, signal processing, and sensor interfacing.
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 在设计、开发和调试微控制器和微处理器固件方面有丰富经验。
 * 熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。
 * 了解电源管理、信号处理和传感器接口。
@@ -49,12 +49,12 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 ## Blockchain | 区块链 
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Participated in projects with the well-known blockchain platform Polkadot.
 * Basic understanding of smart contracts, consensus mechanisms, and cryptography.
 * Capable of writing and deploying decentralized applications (dApps).
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 参与了知名区块链平台Polkadot的项目。
 * 对智能合约、共识机制和加密技术有基本了解。
 * 能够编写和部署去中心化应用（dApps）。
@@ -63,12 +63,12 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 
 ## Automation | 自动化
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Involved in developing and implementing automation solutions for various applications.
 * Experience with PLC programming and industrial automation systems.
 * Able to integrate automation technologies to improve efficiency and accuracy.
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 参与开发和实施各种应用的自动化解决方案。
 * 有PLC编程和工业自动化系统经验。
 * 能够集成自动化技术以提高效率和准确性。
@@ -78,12 +78,12 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 ## Programming Languages | 编程语言
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * **Expert:** Rust, Python
 * **Proficient:** C++, C#
 * **Familiar:** PLC languages (Structured Text, Function Block Diagram)
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * **精通:** Rust, Python
 * **熟练:** C++, C#
 * **了解:** PLC语言（结构化文本，功能块图）
@@ -93,7 +93,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 ## Technical Skills | 技术技能
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Operating Systems: *Linux*, Windows
 * Cloud Platforms: GCP, Fly.io, Synology
 * Databases: SQLite, PostgreSQL
@@ -101,7 +101,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * Documentation Tools: Quarto, Markdown, Mermaid Chart
 * Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 操作系统: *Linux*, Windows
 * 云平台: GCP, Fly.io, Synology
 * 数据库: SQLite, PostgreSQL
@@ -114,14 +114,14 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 ## Soft Skills | 软技能
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Excellent communication and teamwork skills.
 * Highly motivated and self-directed learner.
 * Adaptable and eager to take on new challenges.
 * Problem-solving and analytical skills.
 * English proficient for reading and listening, Chinese basic.
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 优秀的沟通和团队合作能力。
 * 高度自我激励和自主学习能力。
 * 适应性强，渴望接受新挑战。
@@ -133,7 +133,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 # Experience | 工作经验
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 **Blockchain Developer** (Freelance)
 [Bacninh, Vietnam]
 [02/2023-Present]
@@ -158,7 +158,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 **区块链开发者** (自由职业)
 [越南北宁]
 [02/2023年至今]
@@ -188,13 +188,13 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 # Education | 教育背景
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 [B.A. Electronics Engineer]
 [*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
 [Hanoi, Vietnam]
 [08/2015-08/2020]
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 [电子工程学士]
 [*河内科技大学电子与通信学院*]
 [越南河内]
@@ -205,12 +205,12 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 # Interests | 兴趣爱好
 
 :::: {.columns}
-::: {.column width="48%"}
+::: {.column width="40%"}
 * Participating in team-based computer games
 * Exploring new places through travel, walking, and hiking
 * Designing and building DIY gadgets
 :::
-::: {.column width="48%"}
+::: {.column width="40%"}
 * 参与团队电脑游戏
 * 通过旅行、步行和徒步探索新地方
 * 设计和制作DIY小工具
