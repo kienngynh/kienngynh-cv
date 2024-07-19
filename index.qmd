@@ -1,12 +1,11 @@
 ---
-title: Curriculum vitae
+title: Curriculum vitae | 简历
 format:
   quarto-cv-pdf: default
   html: default
-author: Nguyen Huu Kien
-date: last-modified
+author: Nguyen Huu Kien | 阮有坚
 phone: (+84)559261197
-address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province, Vietnam"
+address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam | 越南 · 北宁省 · 仙游县 · 仙游县 · 林镇 · 陇江村 "
 email: kienngynh@gmail.com
 fontsize: 11pt
 github: kienngynh # github account
@@ -17,89 +16,111 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Profile
-
+# Profile | 个人简介
 A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 
-# Skills
+一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。
 
-## Embedded
+# Skills | 技能
 
+## Embedded | 嵌入式
 * Experienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.
 * Familiar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.
 * Knowledgeable in power management, signal processing, and sensor interfacing.
 
-## Blockchain
+* 在设计、开发和调试微控制器和微处理器固件方面有丰富经验。
+* 熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。
+* 了解电源管理、信号处理和传感器接口。
 
+## Blockchain | 区块链
 * Participated in projects with the well-known blockchain platform Polkadot.
 * Basic understanding of smart contracts, consensus mechanisms, and cryptography.
 * Capable of writing and deploying decentralized applications (dApps).
 
-## Automation
+* 参与了知名区块链平台Polkadot的项目。
+* 对智能合约、共识机制和加密技术有基本了解。
+* 能够编写和部署去中心化应用（dApps）。
 
+## Automation | 自动化
 * Involved in developing and implementing automation solutions for various applications.
 * Experience with PLC programming and industrial automation systems.
 * Able to integrate automation technologies to improve efficiency and accuracy.
 
-## Programming Languages
+* 参与开发和实施各种应用的自动化解决方案。
+* 有PLC编程和工业自动化系统经验。
+* 能够集成自动化技术以提高效率和准确性。
 
-* **Expert:** Rust, Python
-* **Proficient:** C++, C#
-* **Familiar:** PLC languages (Structured Text, Function Block Diagram)
+## Programming Languages | 编程语言
+* **Expert | 精通:** Rust, Python
+* **Proficient | 熟练:** C++, C#
+* **Familiar | 了解:** PLC languages (Structured Text, Function Block Diagram) | PLC语言（结构化文本、功能块图）
 
-## Technical Skills
+## Technical Skills | 技术技能
+* Operating Systems | 操作系统: *Linux*, Windows
+* Cloud Platforms | 云平台: GCP, Fly.io, Synology
+* Databases | 数据库: SQLite, PostgreSQL
+* DevOps Tools | DevOps工具: Docker, GitHub, Cargo, Pip
+* IDEs | IDE: Neovim 
+* Documentation Tools | 文档工具: Quarto, Markdown, Mermaid Chart
+* Design & Simulation Tools | 设计和仿真工具: FreeCAD, KiCad, OpenFOAM
 
-* Operating Systems: _Linux_, Windows
-* Cloud Platforms: GCP, Fly.io, Synology
-* Databases: SQLite, PostgreSQL
-* DevOps Tools: Docker, GitHub, Cargo, Pip
-* IDEs: Neovim 
-* Documentation Tools: Quarto, Markdown, Mermaid Chart
-* Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
-
-## Soft Skills
-
+## Soft Skills | 软技能
 * Excellent communication and teamwork skills.
 * Highly motivated and self-directed learner.
 * Adaptable and eager to take on new challenges.
 * Problem-solving and analytical skills.
 * English proficient for reading and listening, Chinese basic.
 
-# Experience
+* 优秀的沟通和团队合作能力。
+* 高度自我激励和自主学习能力。
+* 适应性强，渴望接受新挑战。
+* 问题解决和分析能力。
+* 英语阅读和听力熟练，中文基础。
 
-**Blockchain Developer** (Freelance)
-[Bacninh, Vietnam]
-[2023-Present]
+# Experience | 工作经验
 
+**Blockchain Developer | 区块链开发者** (Freelance | 自由职业)
+[Bacninh, Vietnam | 越南北宁]
+[2023-Present | 2023年至今]
 * Developed and deployed smart contracts for various DeFi projects.
 * Built a decentralized marketplace on the Polygon network.
 
-**Application Software Manager**
-[ITC Technology JSC]
-[Bacninh, Vietnam]
-[2022-]
+* 为各种DeFi项目开发和部署智能合约。
+* 在Polygon网络上构建去中心化市场。
 
+**Application Software Manager | 应用软件经理**
+[ITC Technology JSC | ITC科技股份公司]
+[Bacninh, Vietnam | 越南北宁]
+[2022-]
 * Successfully migrated the company website to a new Rust-based platform.
 * Developed firmware for controllers and air conditioners, improving performance and reliability.
 * Led the development of user-friendly software for internal processes.
 
-**Automation Engineer**
-[ITC Technology JSC]
-[Hanoi, Vietnam]
-[2018-2022]
+* 成功将公司网站迁移到新的基于Rust的平台。
+* 为控制器和空调开发固件，提高性能和可靠性。
+* 领导开发用户友好的内部流程软件。
 
+**Automation Engineer | 自动化工程师**
+[ITC Technology JSC | ITC科技股份公司]
+[Hanoi, Vietnam | 越南河内]
+[2018-2022]
 * Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 
-# Education
+* 为新的火警和楼宇管理系统开发固件和软件。
+* 实施自动化解决方案以提高效率和准确性。
 
-[B.A. Electronics Engineer]
-[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
-[Hanoi, Vietnam]
+# Education | 教育背景
+[B.A. Electronics Engineer | 电子工程学士]
+[*The School of Electronics and Telecom, Hanoi University of Science and Technology | 河内科技大学电子与通信学院*]
+[Hanoi, Vietnam | 越南河内]
 [2015-2020]
 
-# Interests
-
+# Interests | 兴趣爱好
 * Participating in team-based computer games
 * Exploring new places through travel, walking, and hiking
 * Designing and building DIY gadgets
+
+* 参与团队电脑游戏
+* 通过旅行、步行和徒步探索新地方
+* 设计和制作DIY小工具
