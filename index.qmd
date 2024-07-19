@@ -60,7 +60,6 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * Cloud Platforms | 云平台: GCP, Fly.io, Synology
 * Databases | 数据库: SQLite, PostgreSQL
 * DevOps Tools | DevOps工具: Docker, GitHub, Cargo, Pip
-* IDEs | IDE: Neovim 
 * Documentation Tools | 文档工具: Quarto, Markdown, Mermaid Chart
 * Design & Simulation Tools | 设计和仿真工具: FreeCAD, KiCad, OpenFOAM
 
