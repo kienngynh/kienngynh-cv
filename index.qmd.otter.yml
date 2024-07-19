@@ -1,0 +1,20 @@
+title: Curriculum vitae | 简历
+format:
+  quarto-cv-pdf:
+    pdf-engine: xelatex
+    page-layout: article
+  html: 
+    page-layout: article
+CJKmainfont: Noto Serif CJK SC Light
+author: Nguyen Huu Kien | 阮有坚
+phone: (+84)559261197
+address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam | 越南 · 北宁省 · 仙游县 · 仙游县 · 林镇 · 陇江村 "
+email: kienngynh@gmail.com
+github: kienngynh # github account
+web: linkedin.com/in/kienbk60
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+
+
