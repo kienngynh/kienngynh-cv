@@ -1,5 +1,5 @@
 ---
-title: Curriculum vitae | 简历
+title: Curriculum vitae | 简历 | Sơ yếu lý lịch
 format:
   quarto-cv-pdf:
     pdf-engine: xelatex
@@ -7,9 +7,9 @@ format:
   html: 
     page-layout: article
 CJKmainfont: Noto Serif CJK SC Light
-author: Nguyen Huu Kien | 阮有坚
+author: Nguyen Huu Kien | 阮友坚
 phone: (+84)559261197
-address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam | 越南 · 北宁省 · 仙游县 · 仙游县 · 林镇 · 陇江村 "
+address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam | 越南 · 北宁省 · 仙游县 · 仙游县 · 林镇 · 陇江村"
 email: kienngynh@gmail.com
 github: kienngynh # github account
 web: linkedin.com/in/kienbk60
@@ -19,81 +19,105 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-# Profile | 个人简介
+# Profile | 个人简介 | Hồ sơ cá nhân
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。
+:::
+::: {.column width="33%"}
+Một kỹ sư có đam mê với hệ thống nhúng, kinh nghiệm với công nghệ blockchain và lập trình tự động hóa công nghiệp. Mong muốn đóng góp vào các dự án đổi mới và tận dụng công nghệ blockchain để giải quyết các thách thức trong thế giới thực.
 :::
 ::::
 
-# Skills | 技能
-## Embedded | 嵌入式
+# Skills | 技能 | Kỹ năng
+## Embedded | 嵌入式 | Hệ thống nhúng
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Experienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.
 * Familiar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.
 * Knowledgeable in power management, signal processing, and sensor interfacing.
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 在设计、开发和调试微控制器和微处理器固件方面有丰富经验。
 * 熟悉I2C、SPI、UART、Modbus、BACnet和以太网等通信协议。
 * 了解电源管理、信号处理和传感器接口。
 :::
+::: {.column width="33%"}
+* Có kinh nghiệm trong thiết kế, phát triển và gỡ lỗi firmware cho vi điều khiển và vi xử lý.
+* Quen thuộc với các giao thức truyền thông như I2C, SPI, UART, Modbus, BACnet và Ethernet.
+* Hiểu biết về quản lý năng lượng, xử lý tín hiệu và giao tiếp cảm biến.
+:::
 ::::
 
-## Blockchain | 区块链 
+## Blockchain | 区块链 | Blockchain
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Participated in projects with the well-known blockchain platform Polkadot.
 * Basic understanding of smart contracts, consensus mechanisms, and cryptography.
 * Capable of writing and deploying decentralized applications (dApps).
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 参与了知名区块链平台Polkadot的项目。
 * 对智能合约、共识机制和加密技术有基本了解。
 * 能够编写和部署去中心化应用（dApps）。
 :::
+::: {.column width="33%"}
+* Tham gia các dự án với nền tảng blockchain nổi tiếng Polkadot.
+* Hiểu biết cơ bản về hợp đồng thông minh, cơ chế đồng thuận và mật mã học.
+* Có khả năng viết và triển khai ứng dụng phi tập trung (dApps).
+:::
 ::::
 
-## Automation | 自动化
+## Automation | 自动化 | Tự động hóa
+
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Involved in developing and implementing automation solutions for various applications.
 * Experience with PLC programming and industrial automation systems.
 * Able to integrate automation technologies to improve efficiency and accuracy.
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 参与开发和实施各种应用的自动化解决方案。
 * 有PLC编程和工业自动化系统经验。
 * 能够集成自动化技术以提高效率和准确性。
 :::
+::: {.column width="33%"}
+* Tham gia phát triển và triển khai các giải pháp tự động hóa với nhiều ứng dụng.
+* Có kinh nghiệm về lập trình PLC và hệ thống tự động hóa công nghiệp.
+* Có thể tích hợp các công nghệ tự động hóa để nâng cao hiệu quả và độ chính xác.
+:::
 ::::
 
-## Programming Languages | 编程语言
+## Programming Languages | 编程语言 | Ngôn ngữ lập trình
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * **Proficient:** Rust, Python
 * **Competent:** C++, C#
 * **Familiar:** PLC languages (Structured Text, Function Block Diagram)
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * [熟练使用]： Rust, Python
 * [良好掌握]： C++, C#
 * [了解]： PLC 语言（结构化文本，功能块图）
 :::
+::: {.column width="33%"}
+* **Thành thạo:** Rust, Python
+* **Thông thạo:** C++, C#
+* **Quen thuộc:** Ngôn ngữ PLC (Văn bản có cấu trúc, Sơ đồ khối chức năng)
+:::
 ::::
 
-## Technical Skills | 技术技能
+## Technical Skills | 技术技能 | Kỹ năng kỹ thuật
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Operating Systems: *Linux*, Windows
 * Cloud Platforms: GCP, Fly.io, Synology
 * Databases: SQLite, PostgreSQL
@@ -101,7 +125,7 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * Documentation Tools: Quarto, Markdown, Mermaid Chart
 * Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 操作系统: *Linux*, Windows
 * 云平台: GCP, Fly.io, Synology
 * 数据库: SQLite, PostgreSQL
@@ -109,37 +133,52 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * 文档工具: Quarto, Markdown, Mermaid Chart
 * 设计和仿真工具: FreeCAD, KiCad, OpenFOAM
 :::
+::: {.column width="33%"}
+* Hệ điều hành: *Linux*, Windows
+* Nền tảng đám mây: GCP, Fly.io, Synology
+* Cơ sở dữ liệu: SQLite, PostgreSQL
+* Công cụ DevOps: Docker, GitHub, Cargo, Pip
+* Công cụ tài liệu: Quarto, Markdown, Mermaid Chart
+* Công cụ thiết kế & mô phỏng: FreeCAD, KiCad, OpenFOAM
+:::
 ::::
 
-## Soft Skills | 软技能
+## Soft Skills | 软技能 | Kỹ năng mềm
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Good communication and teamwork skills.
 * Motivated and self-directed learner.
 * Adaptable and willing to take on new challenges.
 * Problem-solving and analytical skills.
 * English proficient in reading and listening, basic Chinese skills.
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 良好的沟通和团队合作能力。
 * 积极主动的学习者。
 * 适应能力强，愿意接受新的挑战。
 * 具备解决问题和分析能力。
 * 英语读写听能力熟练，中文基础。
 :::
+::: {.column width="33%"}
+* Kỹ năng giao tiếp và làm việc nhóm tốt.
+* Có khả năng tự học và tự định hướng.
+* Dễ thích nghi và sẵn sàng đón nhận thách thức mới.
+* Kỹ năng giải quyết vấn đề và phân tích.
+* Khả năng đọc hiểu và nghe tiếng Anh tốt, tiếng Trung cơ bản.
+:::
 ::::
 
-# Experience | 工作经验
+# Experience | 工作经验 | Kinh nghiệm làm việc
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 **Blockchain Developer** (Freelance)
 [Bacninh, Vietnam]
 [02/2023-Present]
 
 * Developed and deployed smart contracts for various DeFi projects.
-* Built a decentralized marketplace on the Polygon network.
+* Built a decentralized marketplace on the Polkadot network.
 
 **Application Software Manager**
 [ITC Technology JSC]
@@ -158,13 +197,13 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 **区块链开发者** (自由职业)
 [越南北宁]
 [02/2023年至今]
 
 * 为各种DeFi项目开发和部署智能合约。
-* 在Polygon网络上构建去中心化市场。
+* 在Polkadot网络上构建去中心化市场。
 
 **应用软件经理**
 [ITC科技股份公司]
@@ -183,36 +222,72 @@ A passionate Engineer with experience in embedded systems, blockchain technology
 * 为新的火警和楼宇管理系统开发固件和软件。
 * 实施自动化解决方案以提高效率和准确性。
 :::
+::: {.column width="33%"}
+**Lập trình viên Blockchain** (Tự do)
+[Bắc Ninh, Việt Nam]
+[02/2023-Hiện tại]
+
+* Phát triển và triển khai hợp đồng thông minh cho các dự án DeFi khác nhau.
+* Xây dựng thị trường công việc phi tập trung trên mạng Polkadot.
+
+**Quản lý phần mềm ứng dụng**
+[Công ty Cổ phần Công nghệ ITC]
+[Bắc Ninh, Việt Nam]
+[05/2023-Hiện tại]
+
+* Chuyển đổi trang web công ty sang nền tảng mới dựa trên Rust.
+* Phát triển firmware cho bộ điều khiển và máy điều hòa, cải thiện hiệu suất và độ tin cậy.
+* Phát triển phần mềm thân thiện với người dùng cho các quy trình nội bộ.
+
+**Kỹ sư tự động hóa**
+[Công ty Cổ phần Công nghệ ITC]
+[Hà Nội, Việt Nam]
+[08/2018-05/2023]
+
+* Phát triển firmware và phần mềm cho hệ thống báo cháy và quản lý tòa nhà mới.
+* Triển khai giải pháp tự động hóa để nâng cao hiệu quả và độ chính xác.
+:::
 ::::
 
-# Education | 教育背景
+# Education | 教育背景 | Học vấn
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 [B.A. Electronics Engineer]
 [*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
 [Hanoi, Vietnam]
 [08/2015-08/2020]
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 [电子工程学士]
-[*河内科技大学电子与通信学院*]
+[*河内理工大学 - 电子与电信学院*]
 [越南河内]
+[08/2015-08/2020]
+:::
+::: {.column width="33%"}
+[Bằng kỹ sư Điện tử]
+[*Trường Điện tử Viễn thông, Đại học Bách khoa Hà Nội*]
+[Hà Nội, Việt Nam]
 [08/2015-08/2020]
 :::
 ::::
 
-# Interests | 兴趣爱好
+# Interests | 兴趣爱好 | Sở thích
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="33%"}
 * Participating in team-based computer games
 * Exploring new places through travel, walking, and hiking
 * Designing and building DIY gadgets
 :::
-::: {.column width="50%"}
+::: {.column width="33%"}
 * 参与团队电脑游戏
 * 通过旅行、步行和徒步探索新地方
 * 设计和制作DIY小工具
+:::
+::: {.column width="33%"}
+* Tham gia các trò chơi máy tính theo nhóm
+* Khám phá những địa điểm mới thông qua du lịch, đi bộ và leo núi
+* Thiết kế và chế tạo các thiết bị DIY
 :::
 ::::
