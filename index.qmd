@@ -23,13 +23,13 @@ csl: apa-cv.csl
 
 :::: {.columns}
 ::: {.column width="33%"}
-A passionate Engineer with experience in embedded systems, blockchain technology and automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
+Born in 1997, I am a passionate engineer with experience in embedded systems, blockchain technology, and industrial automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
 :::
 ::: {.column width="33%"}
-一位热衷于嵌入式系统、区块链技术和自动化的工程师。渴望为创新项目做出贡献，并利用区块链技术解决现实世界的挑战。
+我是一名1997年出生的工程师，对嵌入式系统充满热情，并在区块链技术和工业自动化编程方面有丰富经验。希望在创新项目中做出贡献，并利用区块链技术解决现实世界的挑战。
 :::
 ::: {.column width="33%"}
-Một kỹ sư có đam mê với hệ thống nhúng, kinh nghiệm với công nghệ blockchain và lập trình tự động hóa công nghiệp. Mong muốn đóng góp vào các dự án đổi mới và tận dụng công nghệ blockchain để giải quyết các thách thức trong thế giới thực.
+Là một kỹ sư sinh năm 1997, tôi có đam mê với hệ thống nhúng, kinh nghiệm với công nghệ blockchain và lập trình tự động hóa công nghiệp. Tôi mong muốn đóng góp vào các dự án đổi mới và tận dụng công nghệ blockchain để giải quyết các thách thức trong thế giới thực.
 :::
 ::::
 
@@ -56,25 +56,30 @@ Một kỹ sư có đam mê với hệ thống nhúng, kinh nghiệm với công
 
 ## Blockchain | 区块链 | Blockchain
 
+
+
+
 :::: {.columns}
 ::: {.column width="33%"}
-* Participated in projects with the well-known blockchain platform Polkadot.
+* Participated in projects on the blockchain platform Polkadot.
 * Basic understanding of smart contracts, consensus mechanisms, and cryptography.
 * Capable of writing and deploying decentralized applications (dApps).
 :::
 ::: {.column width="33%"}
-* 参与了知名区块链平台Polkadot的项目。
-* 对智能合约、共识机制和加密技术有基本了解。
-* 能够编写和部署去中心化应用（dApps）。
+* 参与区块链平台Polkadot的项目。
+* 对智能合约、共识机制和密码学有基本的了解。
+* 可以编写和展开去中心化应用（dApps）。
 :::
 ::: {.column width="33%"}
-* Tham gia các dự án với nền tảng blockchain nổi tiếng Polkadot.
+* Tham gia các dự án trên nền tảng blockchain Polkadot.
 * Hiểu biết cơ bản về hợp đồng thông minh, cơ chế đồng thuận và mật mã học.
 * Có khả năng viết và triển khai ứng dụng phi tập trung (dApps).
 :::
 ::::
 
 ## Automation | 自动化 | Tự động hóa
+
+
 
 :::: {.columns}
 ::: {.column width="33%"}
@@ -83,9 +88,10 @@ Một kỹ sư có đam mê với hệ thống nhúng, kinh nghiệm với công
 * Able to integrate automation technologies to improve efficiency and accuracy.
 :::
 ::: {.column width="33%"}
-* 参与开发和实施各种应用的自动化解决方案。
+
+* 参与开发和展开各种应用程序的自动化解决方案。
 * 有PLC编程和工业自动化系统经验。
-* 能够集成自动化技术以提高效率和准确性。
+* 可以整合各自动化技术以提高效率和准确性。
 :::
 ::: {.column width="33%"}
 * Tham gia phát triển và triển khai các giải pháp tự động hóa với nhiều ứng dụng.
@@ -99,17 +105,17 @@ Một kỹ sư có đam mê với hệ thống nhúng, kinh nghiệm với công
 :::: {.columns}
 ::: {.column width="33%"}
 * **Proficient:** Rust, Python
-* **Competent:** C++, C#
+* **Experienced:** C++, C#
 * **Familiar:** PLC languages (Structured Text, Function Block Diagram)
 :::
 ::: {.column width="33%"}
 * [熟练使用]： Rust, Python
-* [良好掌握]： C++, C#
+* [好掌握]： C++, C#
 * [了解]： PLC 语言（Structured Text，Function Block Diagram）
 :::
 ::: {.column width="33%"}
 * **Thành thạo:** Rust, Python
-* **Nhiều kinh nghiệm:** C++, C#
+* **Có kinh nghiệm:** C++, C#
 * **Quen thuộc:** Ngôn ngữ PLC (Structured Text, Function Block Diagram)
 :::
 ::::
