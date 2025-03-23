@@ -1,13 +1,13 @@
 ---
-title: Curriculum vitae
+title: Curriculum Vitae
 format:
   quarto-cv-pdf:
     pdf-engine: xelatex
     page-layout: article
-  html: 
+  html:
     page-layout: article
 author: Nguyen Huu Kien
-phone: (+84)559261197
+phone: (+84) 559 261 197
 address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam"
 email: kien.ngynh@gmail.com
 github: kienngynh # github account
@@ -34,7 +34,7 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 
 ## Blockchain
 
-* Participated in projects on the blockchain platform Polkadot.
+* Participated in projects on the Polkadot blockchain platform.
 * Basic understanding of smart contracts, consensus mechanisms, and cryptography.
 * Capable of writing and deploying decentralized applications (dApps).
 
@@ -52,7 +52,7 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 
 ## Technical Skills
 
-* Operating Systems: *Linux*, Windows
+* Operating Systems: Linux, Windows
 * Cloud Platforms: GCP, Fly.io, Synology
 * Databases: SQLite, PostgreSQL
 * DevOps Tools: Docker, GitHub, Cargo, Pip
@@ -65,12 +65,13 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 * Motivated and self-directed learner.
 * Adaptable and willing to take on new challenges.
 * Problem-solving and analytical skills.
-* English proficient in reading and listening, basic Chinese skills.
+* English: Can understand the main ideas of a complicated topic and communicate basically with native speakers.
+* Chinese: Able to understand and respond briefly to basic work-related issues.
 
 # Experience
 
 **Blockchain Developer** (Freelance)
-[Bacninh, Vietnam]
+[Bac Ninh, Vietnam]
 [02/2023-Present]
 
 * Developed and deployed smart contracts for various DeFi projects.
@@ -78,7 +79,7 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 
 **Application Software Manager**
 [ITC Technology JSC]
-[Bacninh, Vietnam]
+[Bac Ninh, Vietnam]
 [05/2023-Present]
 
 * Successfully migrated the company website to a new Rust-based platform.
@@ -95,7 +96,7 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 
 # Education
 
-[B.A. Electronics Engineer]
+B.A. Electronics Engineer
 [*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
 [Hanoi, Vietnam]
 [08/2015-08/2020]
