@@ -22,42 +22,34 @@ csl: apa-cv.csl
 
 # Profile
 
-Born in 1997, I am a passionate engineer with experience in embedded systems, blockchain technology, and industrial automation. Eager to contribute to innovative projects and leverage blockchain technology to solve real-world challenges.
+Born in 1997, I am a passionate engineer with experience in embedded systems, automated software testing and industrial automation. Eager to contribute to innovative projects, enhance system reliability through robust testing, and leverage technology to solve real-world challenges.
 
 # Skills
 
-## Embedded
-
-* Experienced in designing, developing, and debugging firmware for microcontrollers and microprocessors.
-* Familiar with communication protocols such as I2C, SPI, UART, Modbus, BACnet, and Ethernet.
-* Knowledgeable in power management, signal processing, and sensor interfacing.
-
-## Blockchain
-
-* Participated in projects on the Polkadot blockchain platform.
-* Basic understanding of smart contracts, consensus mechanisms, and cryptography.
-* Capable of writing and deploying decentralized applications (dApps).
-
-## Automation
-
-* Involved in developing and implementing automation solutions for various applications.
-* Experience with PLC programming and industrial automation systems.
-* Able to integrate automation technologies to improve efficiency and accuracy.
-
 ## Programming Languages
 
-* **Proficient:** Rust, Python
-* **Experienced:** C++, Go, C#
-* **Familiar:** PLC languages (Structured Text, Function Block Diagram)
+* **Proficient:** Python, C++
+* **Experienced:** Rust, Go, PowerShell, Shell, Batchfile
+* **Familiar:** C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)
+
+## Automation & Testing
+
+* Designing, developing, and implementing automated testing solutions.
+* Building and maintaining test automation systems for manufacturing and software.
+* Experience with PLC programming and industrial automation systems.
+* Proficient in scripting with PowerShell, Shell, and Batchfile for automation tasks.
+* Hardware-software integration and testing.
 
 ## Technical Skills
 
 * Operating Systems: Linux, Windows
 * Cloud Platforms: GCP, Fly.io, Synology
-* Databases: SQLite, PostgreSQL
-* DevOps Tools: Docker, GitHub, Cargo, Pip
+* Databases: SQLite
+* DevOps & Version Control: Docker, GitHub, GitHub Actions, Cargo, Pip
+* Data Analysis: Jupyter Notebook
 * Documentation Tools: Quarto, Markdown, Mermaid Chart
 * Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
+* System Configuration: Nix (for NixOS)
 
 ## Soft Skills
 
@@ -70,27 +62,23 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, bl
 
 # Experience
 
-**Blockchain Developer** (Freelance)
-[Bac Ninh, Vietnam]
-[02/2023-Present]
+**Test Developer**
+[CyberTAN-Foxconn Corporation]
+[08/2024–Present]
 
-* Developed and deployed smart contracts for various DeFi projects.
-* Built a decentralized marketplace on the Polkadot network.
+* Responsible for verify new firmware release, designing test plans, developing test programs for product prototypes, and managing NPI test execution.
+* Designed and implemented automated test systems for manufacturing processes, enhancing efficiency and product quality.
+* Developed and implemented a system for production yield testing and monitoring.
+* Built an automated MAC address assignment system.
 
 **Application Software Manager**
 [ITC Technology JSC]
 [Bac Ninh, Vietnam]
-[05/2023-Present]
+[08/2019-8/2024]
 
 * Successfully migrated the company website to a new Rust-based platform.
 * Developed firmware for controllers and air conditioners, improving performance and reliability.
 * Led the development of user-friendly software for internal processes.
-
-**Automation Engineer**
-[ITC Technology JSC]
-[Hanoi, Vietnam]
-[08/2018-05/2023]
-
 * Developed firmware and software for new fire alarms and building management systems.
 * Implemented automation solutions to improve efficiency and accuracy.
 
