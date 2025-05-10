@@ -63,7 +63,8 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, au
 # Experience
 
 **Test Developer**
-[CyberTAN-Foxconn Corporation]
+[CyberTAN - Foxconn Technology]
+[Bac Ninh, Vietnam]
 [08/2024–Present]
 
 * Responsible for verify new firmware release, designing test plans, developing test programs for product prototypes, and managing NPI test execution.
