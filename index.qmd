@@ -10,7 +10,7 @@ author: Nguyen Huu Kien
 phone: (+84) 559 261 197
 address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam"
 email: kien.ngynh@gmail.com
-github: kienngynh # github account
+github: kienngynh
 web: linkedin.com/in/kienbk60
 fontawesome: yes
 nocite: '@*'
@@ -18,7 +18,7 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-![](assets/avatar.jpg){fig-align="center" width="15%"}
+![](assets/avatar.png){fig-align="center" width="15%"}
 
 # Profile
 
