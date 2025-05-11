@@ -34,11 +34,11 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, au
 
 ## Automation & Testing
 
-* Designing, developing, and implementing automated testing solutions.
+* AI/ML Application: Applying Python, Docker, GCP, and CI/CD (GitHub Actions) for developing, deploying, and integrating efficient AI/ML solutions.
+* Designing, developing, and implementing automated hardware-software testing solutions.
 * Building and maintaining test automation systems for manufacturing and software.
 * Experience with PLC programming and industrial automation systems.
 * Proficient in scripting with PowerShell, Shell, and Batchfile for automation tasks.
-* Hardware-software integration and testing.
 
 ## Technical Skills
 
@@ -68,7 +68,7 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, au
 [08/2024–Present]
 
 * Responsible for verify new firmware release, designing test plans, developing test programs for product prototypes, and managing NPI test execution.
-* Designed and implemented automated test systems for manufacturing processes, enhancing efficiency and product quality.
+* Designed and implemented automated test systems for manufacturing processes, enhancing efficiency and product quality: RF Testing, Function Testing, Network Device Testing...
 * Developed and implemented a system for production yield testing and monitoring.
 * Built an automated MAC address assignment system.
 
