@@ -82,7 +82,7 @@ Test Automation Architecture · NPI Test Engineering · Embedded Firmware Develo
 # Key Projects
 
 **Automated NPI Test Platform — CyberTAN, Foxconn**
-Designed and built a unified Python-based automated test infrastructure for network device NPI, integrating RF calibration, functional validation, and performance tracking. The system enabled parallel testing across multiple devices (DUT), significantly compressing test cycles and ensuring high-volume manufacturing reliability.
+Consolidated multiple fragmented test softwares for various product lines into a single, unified software solution. The system automatically categorizes and transmits detailed test logs—organized by test session and Serial Number (SN)—to a centralized server, streamlining data management and ensuring full traceability during the NPI process.
 
 **Production Yield Monitoring System — CyberTAN, Foxconn**
 Architected a real-time yield monitoring dashboard that aggregated live test data from multiple production lines. This provided instant visibility into first-pass yield (FPY) trends, enabling engineers to make data-driven decisions on rework processes and quality control adjustments.

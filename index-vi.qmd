@@ -82,7 +82,7 @@ Kiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · 
 # Dự án trọng điểm
 
 **Nền tảng kiểm thử NPI tự động — CyberTAN, Foxconn**
-Thiết kế và xây dựng hạ tầng kiểm thử tự động hợp nhất bằng Python cho các dòng sản phẩm NPI mới, tích hợp hiệu chuẩn RF và xác thực hiệu năng. Hệ thống cho phép kiểm thử song song nhiều thiết bị (DUT), giúp rút ngắn đáng kể chu kỳ kiểm thử và đảm bảo độ tin cậy trong sản xuất quy mô lớn.
+Thực hiện hợp nhất nhiều phần mềm kiểm thử cho nhiều dòng sản phẩm thành một giải pháp duy nhất. Hệ thống tự động phân loại và gửi log chi tiết theo từng phiên kiểm thử (test session) và mã số định danh (SN) về một máy chủ tập trung, giúp quản lý dữ liệu hiệu quả và truy xuất nguồn gốc nhanh chóng trong quy trình NPI.
 
 **Hệ thống theo dõi sản lượng sản xuất — CyberTAN, Foxconn**
 Xây dựng nền tảng (dashboard) theo dõi sản lượng sản xuất thời gian thực, tổng hợp dữ liệu trực tiếp từ nhiều dây chuyền. Hệ thống cung cấp cái nhìn tức thời về xu hướng tỉ lệ đạt chuẩn (FPY), hỗ trợ các kỹ sư ra quyết định xử lý lỗi và điều chỉnh quy trình kiểm soát chất lượng dựa trên dữ liệu thực tế.
