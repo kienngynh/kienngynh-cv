@@ -13,4 +13,4 @@ about:
 
 ---
 
-Senior Automation & Test Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about architecting reliable engineering infrastructure using Rust, Python, and Go.
+Test Software Development Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about building reliable engineering infrastructure using Rust, Python, and Go.

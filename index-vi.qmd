@@ -22,7 +22,7 @@ csl: apa-cv.csl
 
 # Hồ sơ
 
-Kỹ sư Phát triển Phần mềm Kiểm thử Cao cấp với hơn 7 năm kinh nghiệm thiết kế các hệ thống kiểm thử phần cứng - phần mềm cho sản xuất thiết bị mạng quy mô lớn. Tại CyberTAN (Foxconn), đã dẫn dắt thiết kế các nền tảng kiểm thử tự động đa lĩnh vực — bao gồm RF, kiểm thử chức năng và theo dõi sản lượng — hỗ trợ các chu kỳ NPI khối lượng lớn. Có khả năng kết nối giữa hệ thống nhúng, công cụ đám mây (GCP, Docker) và lập trình script (Python, Rust, Go) để xây dựng hạ tầng kỹ thuật tin cậy và dễ bảo trì.
+Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm trong lĩnh vực kiểm thử phần cứng - phần mềm và tự động hóa quy trình sản xuất. Có kinh nghiệm xây dựng các hệ thống kiểm thử tự động toàn diện (RF, chức năng, thiết bị mạng), tích hợp các công cụ đám mây (GCP, Docker) và lập trình script (Python, Rust, Go) để tối ưu hóa hiệu quả sản xuất và hạ tầng kỹ thuật.
 
 # Kỹ năng
 
@@ -63,32 +63,32 @@ Kiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · 
 [Bắc Ninh, Việt Nam]
 [08/2024–Hiện tại]
 
-* Dẫn dắt quy trình xác thực firmware đầu-cuối cho nhiều dòng sản phẩm — từ phân tích yêu cầu, thiết kế kế hoạch kiểm thử đến phát triển chương trình kiểm thử mẫu và giám sát thực thi NPI.
-* Thiết lập kiến trúc nền tảng kiểm thử tự động đa miền từ đầu, tích hợp hiệu chuẩn RF, xác thực chức năng và kiểm thử thiết bị mạng để nén đáng kể chu kỳ kiểm thử thủ công.
-* Xây dựng bảng điều khiển theo dõi sản lượng sản xuất thời gian thực, tổng hợp dữ liệu từ nhiều dây chuyền, hỗ trợ các quyết định sửa lỗi dựa trên dữ liệu và cải thiện khả năng hiển thị FPY.
-* Tự động hóa việc cấp phát địa chỉ MAC trên các dây chuyền sản xuất thông qua hệ thống tự xây dựng, loại bỏ 100% lỗi nhập liệu thủ công và tiết kiệm đáng kể thời gian vận hành mỗi ngày.
+* Xác thực firmware cho các dòng sản phẩm mới, thiết kế kế hoạch và chương trình kiểm thử mẫu phục vụ quy trình thực thi NPI.
+* Xây dựng hệ thống kiểm thử tự động cho sản xuất (RF, chức năng, thiết bị mạng), giúp giảm thiểu các công đoạn kiểm thử thủ công.
+* Phát triển công cụ theo dõi sản lượng sản xuất thời gian thực, hỗ trợ quản lý dữ liệu và tỉ lệ đạt (FPY) hiệu quả hơn.
+* Tự động hóa việc cấp phát địa chỉ MAC trên dây chuyền sản xuất, giúp hạn chế tối đa sai sót nhập liệu.
 
 **Quản lý phần mềm ứng dụng**
 [Công ty Cổ phần Công nghệ ITC]
 [Bắc Ninh, Việt Nam]
 [08/2019 – 08/2024]
 
-* Dẫn dắt việc chuyển đổi toàn diện website công ty sang nền tảng hiệu năng cao dựa trên Rust, giảm thời gian tải trang và cắt giảm đáng kể chi phí bảo trì dài hạn.
-* Phát triển và tối ưu hóa firmware nhúng cho các bộ điều khiển công nghiệp và hệ thống HVAC, đạt được những cải thiện rõ rệt về hiệu suất vận hành và độ tin cậy của hệ thống.
-* Tiên phong thiết kế và triển khai các công cụ quy trình nội bộ được áp dụng toàn công ty, tối ưu hóa quy trình vận hành giữa các bộ phận.
-* Phát triển firmware và phần mềm cho thế hệ hệ thống báo cháy mới và hệ thống quản lý tòa nhà tích hợp (BMS), nâng cao độ tin cậy và khả năng tương tác hệ thống.
-* Tối ưu hóa quy trình sản xuất thông qua các pipeline tự động hóa tùy chỉnh (Python, PowerShell), giảm can thiệp thủ công và cải thiện khả năng truy xuất quy trình đầu-cuối.
+* Thực hiện chuyển đổi website công ty sang nền tảng dùng Rust, tối ưu tốc độ tải trang và khả năng bảo trì lâu dài.
+* Phát triển và tối ưu firmware cho các bộ điều khiển công nghiệp và hệ thống HVAC, cải thiện độ ổn định vận hành và hiệu quả hệ thống.
+* Thiết kế và triển khai các phần mềm nội bộ giúp số hóa và tối ưu hóa quy trình làm việc giữa các phòng ban.
+* Tham gia phát triển firmware và phần mềm cho hệ thống báo cháy và hệ thống quản lý tòa nhà tích hợp (BMS).
+* Xây dựng các pipeline tự động hóa tùy chỉnh (Python, PowerShell) để nâng cao độ chính xác và khả năng truy xuất quy trình.
 
 # Dự án trọng điểm
 
 **Nền tảng kiểm thử NPI tự động — CyberTAN, Foxconn**
-*[Placeholder — mô tả kiến trúc, phạm vi (số dòng sản phẩm/thiết bị), các quyết định kỹ thuật chính và kết quả đo lường được.]*
+Thiết kế và xây dựng hạ tầng kiểm thử tự động hợp nhất bằng Python cho các dòng sản phẩm NPI mới, tích hợp hiệu chuẩn RF và xác thực hiệu năng. Hệ thống cho phép kiểm thử song song nhiều thiết bị (DUT), giúp rút ngắn đáng kể chu kỳ kiểm thử và đảm bảo độ tin cậy trong sản xuất quy mô lớn.
 
 **Hệ thống theo dõi sản lượng sản xuất — CyberTAN, Foxconn**
-*[Placeholder — mô tả cách hệ thống được xây dựng, các nguồn dữ liệu tích hợp và tác động đến việc ra quyết định sản xuất.]*
+Xây dựng nền tảng (dashboard) theo dõi sản lượng sản xuất thời gian thực, tổng hợp dữ liệu trực tiếp từ nhiều dây chuyền. Hệ thống cung cấp cái nhìn tức thời về xu hướng tỉ lệ đạt chuẩn (FPY), hỗ trợ các kỹ sư ra quyết định xử lý lỗi và điều chỉnh quy trình kiểm soát chất lượng dựa trên dữ liệu thực tế.
 
-**Chuyển đổi website công ty sang Rust — Công ty CP Công nghệ ITC**
-*[Placeholder — mô tả phạm vi chuyển đổi, các thách thức kỹ thuật đã giải quyết và cải thiện hiệu suất đo lường được sau khi ra mắt.]*
+**Hệ thống Giám sát & Báo cáo Phòng Thử nghiệm — Công ty CP Công nghệ ITC**
+Kiến trúc và phát triển hệ thống giám sát full-stack cao cấp cho các phòng thử nghiệm công nghiệp bằng Rust (Dioxus). Tích hợp thu thập dữ liệu thời gian thực từ bộ điều khiển Carel c.pCO thông qua các tác vụ nền bất đồng bộ (Tokio), lưu trữ dữ liệu cảm biến tần suất cao trong PostgreSQL. Xây dựng bộ máy báo cáo PDF tự động và bảng điều khiển web, giúp cải thiện đáng kể độ chính xác dữ liệu và hiệu suất báo cáo cho quy trình thử nghiệm điều hòa không khí.
 
 # Học vấn
 
@@ -102,13 +102,3 @@ Bằng Kỹ sư Điện tử Viễn thông
 * Tham gia các trò chơi máy tính theo nhóm
 * Khám phá những địa điểm mới thông qua du lịch, đi bộ và leo núi
 * Thiết kế và chế tạo các thiết bị DIY
-
-# Chứng chỉ
-
-* *[Tên chứng chỉ]* — [Tổ chức cấp], [Năm]
-* *[Tên chứng chỉ]* — [Tổ chức cấp], [Năm]
-
-# Mã nguồn mở & Cộng đồng
-
-* **[github.com/kienngynh](https://github.com/kienngynh)** — *[Thêm mô tả về các kho lưu trữ công khai hoặc đóng góp nổi bật tại đây.]*
-* *[Placeholder — thêm các bài viết blog, bài thuyết trình kỹ thuật hoặc mô tả dự án mã nguồn mở.]*

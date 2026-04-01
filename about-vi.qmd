@@ -13,4 +13,4 @@ about:
 
 ---
 
-Kỹ sư Phát triển Phần mềm Kiểm thử Cao cấp với hơn 7 năm kinh nghiệm trong hệ thống nhúng và tự động hóa sản xuất. Đam mê xây dựng hạ tầng kỹ thuật tin cậy bằng Rust, Python và Go.
+Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm trong lĩnh vực hệ thống nhúng và tự động hóa sản xuất. Đam mê xây dựng hạ tầng kỹ thuật tin cậy bằng Rust, Python và Go.
