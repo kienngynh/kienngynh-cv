@@ -75,8 +75,11 @@ Test Automation Architecture · NPI Test Engineering · Embedded Firmware Develo
 
 ## Languages
 
-* **English:** Professional working proficiency; comfortable with technical documentation and written correspondence.
-* **Chinese:** Basic conversational ability for work-related communication.
+* **English:** Working proficiency; capable of reading technical documentation and handling professional correspondence.
+* **Chinese:** Basic working proficiency; able to handle simple work-related communication.
+
+
+
 
 # Experience
 
