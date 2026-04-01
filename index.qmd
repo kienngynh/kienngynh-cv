@@ -18,11 +18,32 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-![](assets/avatar.png){fig-align="center" width="15%"}
+:::: {.columns}
 
+::: {.column width="20%"}
+::: {.content-visible when-format="html"}
+![](assets/avatar.png){width="100%" fig-align="center"}
+:::
+
+::: {.content-visible when-format="pdf"}
+\begin{center}
+\includegraphics[width=2.8cm]{assets/avatar.png}
+\end{center}
+:::
+:::
+
+::: {.column width="5%"}
+<!-- gap -->
+:::
+
+::: {.column width="75%"}
 # Profile
 
 Test Software Development Engineer with 7+ years of experience in hardware-software integration testing and manufacturing automation. Experienced in building comprehensive automated test systems (RF, functional, network), integrating cloud tools (GCP, Docker), and scripting (Python, Rust, Go) to optimize production efficiency and engineering infrastructure.
+:::
+
+::::
+
 
 # Skills
 

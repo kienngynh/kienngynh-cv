@@ -18,11 +18,32 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-![](assets/avatar.png){fig-align="center" width="15%"}
+:::: {.columns}
 
+::: {.column width="20%"}
+::: {.content-visible when-format="html"}
+![](assets/avatar.png){width="100%" fig-align="center"}
+:::
+
+::: {.content-visible when-format="pdf"}
+\begin{center}
+\includegraphics[width=2.8cm]{assets/avatar.png}
+\end{center}
+:::
+:::
+
+::: {.column width="5%"}
+<!-- gap -->
+:::
+
+::: {.column width="75%"}
 # 个人简介
 
 测试软件开发工程师，拥有7年以上硬件-软件集成测试及生产流程自动化经验。具备构建全面自动化测试系统（射频、功能、网络设备）、集成云工具（GCP, Docker）及脚本编程（Python, Rust, Go）的能力，致力于优化生产效率和工程基础设施。
+:::
+
+::::
+
 
 # 技能
 

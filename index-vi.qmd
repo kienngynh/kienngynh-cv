@@ -18,11 +18,32 @@ validate-yaml: false
 csl: apa-cv.csl
 ---
 
-![](assets/avatar.png){fig-align="center" width="15%"}
+:::: {.columns}
 
+::: {.column width="20%"}
+::: {.content-visible when-format="html"}
+![](assets/avatar.png){width="100%" fig-align="center"}
+:::
+
+::: {.content-visible when-format="pdf"}
+\begin{center}
+\includegraphics[width=2.8cm]{assets/avatar.png}
+\end{center}
+:::
+:::
+
+::: {.column width="5%"}
+<!-- gap -->
+:::
+
+::: {.column width="75%"}
 # Hồ sơ
 
 Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm trong lĩnh vực kiểm thử phần cứng - phần mềm và tự động hóa quy trình sản xuất. Có kinh nghiệm xây dựng các hệ thống kiểm thử tự động toàn diện (RF, chức năng, thiết bị mạng), tích hợp các công cụ đám mây (GCP, Docker) và lập trình script (Python, Rust, Go) để tối ưu hóa hiệu quả sản xuất và hạ tầng kỹ thuật.
+:::
+
+::::
+
 
 # Kỹ năng
 
