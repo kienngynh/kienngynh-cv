@@ -32,5 +32,19 @@
   "index.md": {
     "index.tex": "b6a1e9a5",
     "index.html": "0115be66"
+  },
+  "about-vi.qmd": {
+    "about-vi.html": "d02ba57f"
+  },
+  "about-zh.qmd": {
+    "about-zh.html": "c2da8464"
+  },
+  "index-vi.qmd": {
+    "index-vi.tex": "db3bd797",
+    "index-vi.html": "1add944e"
+  },
+  "index-zh.qmd": {
+    "index-zh.tex": "cf95c547",
+    "index-zh.html": "ba67dae5"
   }
 }

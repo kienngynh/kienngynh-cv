@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi there! I’m Kevil Nguyen, an automation engineer based in Viet Nam. Besides, I have a passion for system language and have worked in the field for 5 years."
-  },
-  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "GNU General Public License",
@@ -35,6 +28,104 @@
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n&lt;one line to give the program's name and a brief idea of what it does.&gt;\nCopyright (C) &lt;year&gt;  &lt;name of author&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;\nThis program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; type 'show c' for details.\nThe hypothetical commands show w and show c should show the appropriate parts of the General Public License. Of course, your program’s commands might be different; for a GUI interface, you would use an “about box”.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see &lt;http://www.gnu.org/licenses/&gt;.\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;."
   },
   {
+    "objectID": "index-zh.html#核心能力-core-competencies",
+    "href": "index-zh.html#核心能力-core-competencies",
+    "title": "个人简历",
+    "section": "核心能力 (Core Competencies)",
+    "text": "核心能力 (Core Competencies)\n测试自动化架构 · NPI 测试工程 · 嵌入式固件开发 · 硬件 CI/CD · 生产良率优化 · 工业自动化 (PLC) · AI/ML 集成 · 软硬件集成测试 · 跨职能技术协作"
+  },
+  {
+    "objectID": "index-zh.html#编程语言",
+    "href": "index-zh.html#编程语言",
+    "title": "个人简历",
+    "section": "编程语言",
+    "text": "编程语言\n\n熟练： Python, C++\n有经验： Rust, Go, PowerShell, Shell, Batchfile\n熟悉： C#, Lua, Nix, PLC 语言 (Structured Text, Function Block Diagram)"
+  },
+  {
+    "objectID": "index-zh.html#平台与工具",
+    "href": "index-zh.html#平台与工具",
+    "title": "个人简历",
+    "section": "平台与工具",
+    "text": "平台与工具\n\n操作系统: Linux, Windows\n云与 DevOps: GCP, Docker, GitHub Actions, Fly.io, Synology\n数据与文档: SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart\n设计与仿真: FreeCAD, KiCad, OpenFOAM\n系统配置: Nix (NixOS)"
+  },
+  {
+    "objectID": "index-zh.html#软技能",
+    "href": "index-zh.html#软技能",
+    "title": "个人简历",
+    "section": "软技能",
+    "text": "软技能\n\n在多文化工程环境中有效沟通并良好协作。\n学习主动，小方能快速适应新技术与工作流程。\n在硬件与软件领域均具备系统化分析思维与问题解决能力。"
+  },
+  {
+    "objectID": "index-zh.html#语言能力",
+    "href": "index-zh.html#语言能力",
+    "title": "个人简历",
+    "section": "语言能力",
+    "text": "语言能力\n\n英语： 能流畅地进行工作沟通；能阅读技术文档并进行専业书面交流。\n越南语： 母语 — 母语使用者。\n中文： 能就工作相关事务进行简单沟通。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Test Software Development Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about building reliable engineering infrastructure using Rust, Python, and Go."
+  },
+  {
+    "objectID": "about-vi.html",
+    "href": "about-vi.html",
+    "title": "Giới thiệu",
+    "section": "",
+    "text": "Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm trong lĩnh vực hệ thống nhúng và tự động hóa sản xuất. Đam mê xây dựng hạ tầng kỹ thuật tin cậy bằng Rust, Python và Go."
+  },
+  {
+    "objectID": "about-zh.html",
+    "href": "about-zh.html",
+    "title": "关于",
+    "section": "",
+    "text": "测试软件开发工程师，拥有7年以上嵌入式系统与制造自动化经验。热衷于使用 Rust, Python 和 Go 构建可靠的工程基础架构。"
+  },
+  {
+    "objectID": "index-vi.html#năng-lực-cốt-lõi-core-competencies",
+    "href": "index-vi.html#năng-lực-cốt-lõi-core-competencies",
+    "title": "Sơ yếu lý lịch",
+    "section": "Năng lực cốt lõi (Core Competencies)",
+    "text": "Năng lực cốt lõi (Core Competencies)\nKiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · Phát triển Firmware nhúng · CI/CD cho phần cứng · Tối ưu hóa sản lượng sản xuất · Tự động hóa công nghiệp (PLC) · Tích hợp AI/ML · Kiểm thử tích hợp Phần cứng-Phần mềm · Hợp tác kỹ thuật đa chức năng"
+  },
+  {
+    "objectID": "index-vi.html#ngôn-ngữ-lập-trình",
+    "href": "index-vi.html#ngôn-ngữ-lập-trình",
+    "title": "Sơ yếu lý lịch",
+    "section": "Ngôn ngữ lập trình",
+    "text": "Ngôn ngữ lập trình\n\nThông thạo: Python, C++\nCó kinh nghiệm: Rust, Go, PowerShell, Shell, Batchfile\nQuen thuộc: C#, Lua, Nix, Ngôn ngữ PLC (Structured Text, Function Block Diagram)"
+  },
+  {
+    "objectID": "index-vi.html#nền-tảng-công-cụ",
+    "href": "index-vi.html#nền-tảng-công-cụ",
+    "title": "Sơ yếu lý lịch",
+    "section": "Nền tảng & Công cụ",
+    "text": "Nền tảng & Công cụ\n\nHệ điều hành: Linux, Windows\nCloud & DevOps: GCP, Docker, GitHub Actions, Fly.io, Synology\nDữ liệu & Tài liệu: SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart\nThiết kế & Mô phỏng: FreeCAD, KiCad, OpenFOAM\nCấu hình hệ thống: Nix (NixOS)"
+  },
+  {
+    "objectID": "index-vi.html#kỹ-năng-mềm",
+    "href": "index-vi.html#kỹ-năng-mềm",
+    "title": "Sơ yếu lý lịch",
+    "section": "Kỹ năng mềm",
+    "text": "Kỹ năng mềm\n\nGiao tiếp hiệu quả và hợp tác tốt trong môi trường kỹ thuật đa văn hóa.\nChủ động học hỏi, thích nghi nhanh với công nghệ và quy trình làm việc mới.\nTư duy phân tích hệ thống và giải quyết vấn đề trên cả lĩnh vực phần cứng lẫn phần mềm."
+  },
+  {
+    "objectID": "index-vi.html#ngoại-ngữ",
+    "href": "index-vi.html#ngoại-ngữ",
+    "title": "Sơ yếu lý lịch",
+    "section": "Ngoại ngữ",
+    "text": "Ngoại ngữ\n\nTiếng Anh: Thành thạo trong môi trường công việc; đọc hiểu tài liệu kỹ thuật và trao đổi văn bản chuyên ngành tốt.\nTiếng Trung: Giao tiếp cơ bản về các vấn đề liên quan đến công việc."
+  },
+  {
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "Curriculum Vitae",
+    "section": "Core Competencies",
+    "text": "Core Competencies\nTest Automation Architecture · NPI Test Engineering · Embedded Firmware Development · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration"
+  },
+  {
     "objectID": "index.html#programming-languages",
     "href": "index.html#programming-languages",
     "title": "Curriculum Vitae",
@@ -42,24 +133,24 @@
     "text": "Programming Languages\n\nProficient: Python, C++\nExperienced: Rust, Go, PowerShell, Shell, Batchfile\nFamiliar: C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)"
   },
   {
-    "objectID": "index.html#automation-testing",
-    "href": "index.html#automation-testing",
+    "objectID": "index.html#platforms-tools",
+    "href": "index.html#platforms-tools",
     "title": "Curriculum Vitae",
-    "section": "Automation & Testing",
-    "text": "Automation & Testing\n\nAI/ML Application: Applying Python, Docker, GCP, and CI/CD (GitHub Actions) for developing, deploying, and integrating efficient AI/ML solutions.\nDesigning, developing, and implementing automated hardware-software testing solutions.\nBuilding and maintaining test automation systems for manufacturing and software.\nExperience with PLC programming and industrial automation systems.\nProficient in scripting with PowerShell, Shell, and Batchfile for automation tasks."
-  },
-  {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "Curriculum Vitae",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nOperating Systems: Linux, Windows\nCloud Platforms: GCP, Fly.io, Synology\nDatabases: SQLite\nDevOps & Version Control: Docker, GitHub, GitHub Actions, Cargo, Pip\nData Analysis: Jupyter Notebook\nDocumentation Tools: Quarto, Markdown, Mermaid Chart\nDesign & Simulation Tools: FreeCAD, KiCad, OpenFOAM\nSystem Configuration: Nix (for NixOS)"
+    "section": "Platforms & Tools",
+    "text": "Platforms & Tools\n\nOS: Linux, Windows\nCloud & DevOps: GCP, Docker, GitHub Actions, Fly.io, Synology\nData & Docs: SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart\nDesign & Simulation: FreeCAD, KiCad, OpenFOAM\nSystem Config: Nix (NixOS)"
   },
   {
     "objectID": "index.html#soft-skills",
     "href": "index.html#soft-skills",
     "title": "Curriculum Vitae",
     "section": "Soft Skills",
-    "text": "Soft Skills\n\nGood communication and teamwork skills.\nMotivated and self-directed learner.\nAdaptable and willing to take on new challenges.\nProblem-solving and analytical skills.\nEnglish: Can understand the main ideas of a complicated topic and communicate basically with native speakers.\nChinese: Able to understand and respond briefly to basic work-related issues."
+    "text": "Soft Skills\n\nEffective communication and collaboration in multicultural engineering environments.\nSelf-motivated learner who rapidly adapts to new technologies and workflows.\nSystematic problem-solving and analytical thinking across hardware and software domains."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Professional working proficiency; comfortable with technical documentation and written correspondence.\nChinese: Basic conversational ability for work-related communication."
   }
 ]
