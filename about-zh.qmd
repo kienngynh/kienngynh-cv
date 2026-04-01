@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 image: assets/avatar.png
 about:
   template: jolla
@@ -13,4 +13,4 @@ about:
 
 ---
 
-Senior Automation & Test Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about architecting reliable engineering infrastructure using Rust, Python, and Go.
+高级测试软件开发工程师，拥有7年以上嵌入式系统与制造自动化经验。热衷于使用 Rust, Python 和 Go 构建可靠的工程基础架构。

@@ -7,6 +7,14 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: "Language"
+        menu:
+          - text: "English"
+            href: index.qmd
+          - text: "Tiếng Việt"
+            href: index-vi.qmd
+          - text: "中文"
+            href: index-zh.qmd
       - icon: github
         href: https://github.com/kienngynh
       - icon: linkedin

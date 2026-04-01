@@ -1,0 +1,115 @@
+---
+title: 个人简历
+format:
+  quarto-cv-pdf:
+    pdf-engine: xelatex
+    page-layout: article
+  html:
+    page-layout: article
+author: 阮友坚
+phone: (+84) 559 261 197
+address: "Lung Giang Ward · Lim Town · Tien Du District · Bac Ninh Province · Vietnam"
+email: kien.ngynh@gmail.com
+github: kienngynh
+web: linkedin.com/in/kienbk60
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+![](assets/avatar.png){fig-align="center" width="15%"}
+
+# 个人简介
+
+高级测试软件开发工程师，拥有7年以上大规模网络设备制造软硬件测试系统架构经验。在富士康旗下子公司 CyberTAN，主导设计了涵盖射频 (RF)、功能测试及良率监控的多领域自动化测试平台，支持高产量的 NPI 周期。具备衔接嵌入式系统、云工具 (GCP, Docker) 及脚本编程 (Python, Rust, Go) 的能力，致力于构建可靠且易于维护的工程基础设施。
+
+# 技能
+
+## 核心能力 (Core Competencies)
+
+测试自动化架构 · NPI 测试工程 · 嵌入式固件开发 · 硬件 CI/CD · 生产良率优化 · 工业自动化 (PLC) · AI/ML 集成 · 软硬件集成测试 · 跨职能技术协作
+
+## 编程语言
+
+* **熟练：** Python, C++
+* **有经验：** Rust, Go, PowerShell, Shell, Batchfile
+* **熟悉：** C#, Lua, Nix, PLC 语言 (Structured Text, Function Block Diagram)
+
+
+## 平台与工具
+
+* **操作系统:** Linux, Windows
+* **云与 DevOps:** GCP, Docker, GitHub Actions, Fly.io, Synology
+* **数据与文档:** SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart
+* **设计与仿真:** FreeCAD, KiCad, OpenFOAM
+* **系统配置:** Nix (NixOS)
+
+## 软技能
+
+* 在多文化工程环境中有效沟通并良好协作。
+* 学习主动，小方能快速适应新技术与工作流程。
+* 在硬件与软件领域均具备系统化分析思维与问题解决能力。
+
+## 语言能力
+
+* **英语：** 能流畅地进行工作沟通；能阅读技术文档并进行専业书面交流。
+* **越南语：** 母语 — 母语使用者。
+* **中文：** 能就工作相关事务进行简单沟通。
+
+# 工作经验
+
+**测试软件开发工程师 (Test Software Development Engineer)**
+[CyberTAN - Foxconn Technology]
+[越南, 北宁]
+[08/2024–至今]
+
+* 主导多个产品线的端到端固件验证流程——从需求分析、测试计划设计到原型测试程序开发及全权监督 NPI 测试执行。
+* 从零开始架构多领域自动化测试平台，集成射频校准、功能验证及网络设备测试，显著缩短人工测试周期。
+* 构建实时生产良率监控仪表板，集成多条生产线数据，支持基于数据的返工决策并提升 FPY 可视化。
+* 通过自研系统实现生产线 MAC 地址自动分配，杜绝 100% 手动输入错误，每日节省大量操作员时间。
+
+**应用软件经理 (Application Software Manager)**
+[ITC Technology JSC]
+[越南, 北宁]
+[08/2019 – 08/2024]
+
+* 主导公司网站全栈迁移至基于 Rust 的高性能平台，提升加载速度并显著降低长期维护开销。
+* 开发并优化工业控制器及 HVAC 系统嵌入式固件，在运行效率和系统可靠性方面取得显著改进。
+* 推动全公司范围采用的内部工作流工具的设计与交付，优化跨部门运营流程。
+* 为新一代火灾报警系统及集成式楼宇管理系统 (BMS) 开发固件与软件，提升可靠性与系统互操作性。
+* 通过自定义自动化流水线 (Python, PowerShell) 优化生产工作流，减少人工干预并提升端到端流程追溯能力。
+
+# 重点项目
+
+**自动化 NPI 测试平台 — CyberTAN, 富士康**
+*[占位符 — 描述架构、规模（产品线/设备数量）、关键技术决策及可衡量的成果。]*
+
+**生产良率监控系统 — CyberTAN, 富士康**
+*[占位符 — 描述系统构建方式、集成的数源及其对生产决策的影响。]*
+
+**公司网站迁移至 Rust — ITC Technology JSC**
+*[占位符 — 描述迁移范围、解决的技术挑战以及上线后衡量的性能提升。]*
+
+# 教育背景
+
+工学学士（电子与通信工程）
+[*河内科技大学 (HUST) 电子与通信学院*]
+[越南, 河内]
+[08/2015 – 08/2020]
+
+# 兴趣爱好
+
+* 参加团队电脑游戏
+* 通过旅行、步行和徒步探索新地方
+* 设计和制作 DIY 小工具
+
+# 证书
+
+* *[证书名称]* — [颁发机构], [年份]
+* *[证书名称]* — [颁发机构], [年份]
+
+# 开源与社区
+
+* **[github.com/kienngynh](https://github.com/kienngynh)** — *[在此添加显著的公开仓库或贡献描述。]*
+* *[占位符 — 添加博客文章、技术演讲或开源项目描述。]*

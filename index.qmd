@@ -22,9 +22,13 @@ csl: apa-cv.csl
 
 # Profile
 
-Born in 1997, I am a passionate engineer with experience in embedded systems, automated software testing and industrial automation. Eager to contribute to innovative projects, enhance system reliability through robust testing, and leverage technology to solve real-world challenges.
+Senior Test Software Development Engineer with 7+ years of experience architecting hardware-software test systems for network device manufacturing at scale. At CyberTAN (Foxconn), spearheaded the design of multi-domain automated test platforms — RF, functional, and yield monitoring — enabling high-volume NPI cycles. Proven ability to bridge embedded systems, cloud tooling (GCP, Docker), and scripting (Python, Rust, Go) to deliver reliable, maintainable engineering infrastructure.
 
 # Skills
+
+## Core Competencies
+
+Test Automation Architecture · NPI Test Engineering · Embedded Firmware Development · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration
 
 ## Programming Languages
 
@@ -32,66 +36,79 @@ Born in 1997, I am a passionate engineer with experience in embedded systems, au
 * **Experienced:** Rust, Go, PowerShell, Shell, Batchfile
 * **Familiar:** C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)
 
-## Automation & Testing
 
-* AI/ML Application: Applying Python, Docker, GCP, and CI/CD (GitHub Actions) for developing, deploying, and integrating efficient AI/ML solutions.
-* Designing, developing, and implementing automated hardware-software testing solutions.
-* Building and maintaining test automation systems for manufacturing and software.
-* Experience with PLC programming and industrial automation systems.
-* Proficient in scripting with PowerShell, Shell, and Batchfile for automation tasks.
+## Platforms & Tools
 
-## Technical Skills
-
-* Operating Systems: Linux, Windows
-* Cloud Platforms: GCP, Fly.io, Synology
-* Databases: SQLite
-* DevOps & Version Control: Docker, GitHub, GitHub Actions, Cargo, Pip
-* Data Analysis: Jupyter Notebook
-* Documentation Tools: Quarto, Markdown, Mermaid Chart
-* Design & Simulation Tools: FreeCAD, KiCad, OpenFOAM
-* System Configuration: Nix (for NixOS)
+* **OS:** Linux, Windows
+* **Cloud & DevOps:** GCP, Docker, GitHub Actions, Fly.io, Synology
+* **Data & Docs:** SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart
+* **Design & Simulation:** FreeCAD, KiCad, OpenFOAM
+* **System Config:** Nix (NixOS)
 
 ## Soft Skills
 
-* Good communication and teamwork skills.
-* Motivated and self-directed learner.
-* Adaptable and willing to take on new challenges.
-* Problem-solving and analytical skills.
-* English: Can understand the main ideas of a complicated topic and communicate basically with native speakers.
-* Chinese: Able to understand and respond briefly to basic work-related issues.
+* Effective communication and collaboration in multicultural engineering environments.
+* Self-motivated learner who rapidly adapts to new technologies and workflows.
+* Systematic problem-solving and analytical thinking across hardware and software domains.
+
+## Languages
+
+* **English:** Professional working proficiency; comfortable with technical documentation and written correspondence.
+* **Chinese:** Basic conversational ability for work-related communication.
 
 # Experience
 
-**Test Developer**
+**Test Software Development Engineer**
 [CyberTAN - Foxconn Technology]
 [Bac Ninh, Vietnam]
 [08/2024–Present]
 
-* Responsible for verify new firmware release, designing test plans, developing test programs for product prototypes, and managing NPI test execution.
-* Designed and implemented automated test systems for manufacturing processes, enhancing efficiency and product quality: RF Testing, Function Testing, Network Device Testing...
-* Developed and implemented a system for production yield testing and monitoring.
-* Built an automated MAC address assignment system.
+* Spearheaded end-to-end firmware validation workflows for multiple product lines — from requirements analysis and test plan design through prototype test development and full NPI execution oversight.
+* Architected a multi-domain automated test platform from the ground up, integrating RF calibration, functional validation, and network device testing to significantly compress manual testing cycles.
+* Engineered a real-time production yield monitoring dashboard aggregating data across multiple production lines, enabling data-driven rework decisions and improving first-pass yield (FPY) visibility.
+* Automated MAC address provisioning across production lines via a custom-built system, eliminating 100% of manual entry errors and reclaiming significant operator time daily.
 
 **Application Software Manager**
 [ITC Technology JSC]
 [Bac Ninh, Vietnam]
-[08/2019-8/2024]
+[08/2019 – 08/2024]
 
-* Successfully migrated the company website to a new Rust-based platform.
-* Developed firmware for controllers and air conditioners, improving performance and reliability.
-* Led the development of user-friendly software for internal processes.
-* Developed firmware and software for new fire alarms and building management systems.
-* Implemented automation solutions to improve efficiency and accuracy.
+* Led full-stack migration of the company website to a high-performance Rust-based platform, reducing page load time and significantly cutting long-term maintenance overhead.
+* Developed and optimized embedded firmware for industrial controllers and HVAC systems, achieving measurable improvements in operational efficiency and system reliability.
+* Championed the design and delivery of internal workflow tools adopted company-wide, streamlining operational processes across multiple departments.
+* Developed firmware and software for next-generation fire alarm systems and integrated Building Management Systems (BMS), delivering improved reliability and system interoperability.
+* Streamlined production workflows through custom automation pipelines (Python, PowerShell), reducing manual intervention and improving end-to-end process traceability.
+
+# Key Projects
+
+**Automated NPI Test Platform — CyberTAN, Foxconn**
+*[Placeholder — describe the architecture, scope (number of product lines/DUT), key technical decisions, and measurable outcome.]*
+
+**Production Yield Monitoring System — CyberTAN, Foxconn**
+*[Placeholder — describe how the system was built, data sources integrated, and impact on production decision-making.]*
+
+**Company Website Migration to Rust — ITC Technology JSC**
+*[Placeholder — describe migration scope, technical challenges solved, and measured performance improvements post-launch.]*
 
 # Education
 
-B.A. Electronics Engineer
-[*The School of Electronics and Telecom, Hanoi University of Science and Technology*]
+B.Eng. in Electronics and Telecommunications
+[*School of Electronics and Telecommunications (SET), Hanoi University of Science and Technology (HUST)*]
 [Hanoi, Vietnam]
-[08/2015-08/2020]
+[08/2015 – 08/2020]
 
 # Interests
 
 * Participating in team-based computer games
 * Exploring new places through travel, walking, and hiking
 * Designing and building DIY gadgets
+
+# Certifications
+
+* *[Certification Name]* — [Issuing Organization], [Year]
+* *[Certification Name]* — [Issuing Organization], [Year]
+
+# Open Source & Community
+
+* **[github.com/kienngynh](https://github.com/kienngynh)** — *[Add description of notable public repositories or contributions here.]*
+* *[Placeholder — add blog posts, technical talks, or open-source project descriptions.]*
