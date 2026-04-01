@@ -28,7 +28,8 @@ Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm
 
 ## Năng lực cốt lõi (Core Competencies)
 
-Kiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · Phát triển Firmware nhúng · CI/CD cho phần cứng · Tối ưu hóa sản lượng sản xuất · Tự động hóa công nghiệp (PLC) · Tích hợp AI/ML · Kiểm thử tích hợp Phần cứng-Phần mềm · Hợp tác kỹ thuật đa chức năng
+Kiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · Phát triển Firmware nhúng · Đào tạo và dẫn dắt đội ngũ · CI/CD cho phần cứng · Tối ưu hóa sản lượng sản xuất · Tự động hóa công nghiệp (PLC) · Tích hợp AI/ML · Kiểm thử tích hợp Phần cứng-Phần mềm · Hợp tác kỹ thuật đa chức năng
+
 
 ## Ngôn ngữ lập trình
 
@@ -73,11 +74,14 @@ Kiến trúc tự động hóa kiểm thử · Kỹ thuật kiểm thử NPI · 
 [Bắc Ninh, Việt Nam]
 [08/2019 – 08/2024]
 
+* Đào tạo và dẫn dắt nhân viên mới.
 * Thực hiện chuyển đổi website công ty sang nền tảng dùng Rust, tối ưu tốc độ tải trang và khả năng bảo trì lâu dài.
 * Phát triển và tối ưu firmware cho các bộ điều khiển công nghiệp và hệ thống HVAC, cải thiện độ ổn định vận hành và hiệu quả hệ thống.
 * Thiết kế và triển khai các phần mềm nội bộ giúp số hóa và tối ưu hóa quy trình làm việc giữa các phòng ban.
 * Tham gia phát triển firmware và phần mềm cho hệ thống báo cháy và hệ thống quản lý tòa nhà tích hợp (BMS).
 * Xây dựng các pipeline tự động hóa tùy chỉnh (Python, PowerShell) để nâng cao độ chính xác và khả năng truy xuất quy trình.
+
+
 
 # Dự án trọng điểm
 

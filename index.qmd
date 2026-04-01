@@ -28,7 +28,8 @@ Test Software Development Engineer with 7+ years of experience in hardware-softw
 
 ## Core Competencies
 
-Test Automation Architecture · NPI Test Engineering · Embedded Firmware Development · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration
+Test Automation Architecture · NPI Test Engineering · Embedded Firmware Development · Mentoring & Team Leadership · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration
+
 
 ## Programming Languages
 
@@ -73,11 +74,14 @@ Test Automation Architecture · NPI Test Engineering · Embedded Firmware Develo
 [Bac Ninh, Vietnam]
 [08/2019 – 08/2024]
 
+* Mentored and trained new team members.
 * Performed migration of the company website to a Rust-based platform, optimizing load speed and maintainability.
 * Developed and optimized firmware for industrial controllers and HVAC systems, improving operational stability and system efficiency.
 * Designed and deployed internal software tools to digitize and optimize cross-departmental workflows.
 * Contributed to firmware and software development for fire alarm systems and integrated Building Management Systems (BMS).
 * Built custom automation pipelines (Python, PowerShell) to enhance process accuracy and traceability.
+
+
 
 # Key Projects
 
