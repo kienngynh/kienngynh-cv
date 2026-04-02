@@ -7,7 +7,7 @@ format:
   html:
     page-layout: article
 author: Nguyễn Hữu Kiên
-phone: (+84) 559 261 197
+phone: (+84) 348 728 679
 address: "Phường Lũng Giang · Thị trấn Lim · Huyện Tiên Du · Tỉnh Bắc Ninh · Việt Nam"
 email: kien.ngynh@gmail.com
 github: kienngynh

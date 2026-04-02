@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about-zh.html",
-    "href": "about-zh.html",
-    "title": "关于",
-    "section": "",
-    "text": "测试软件开发工程师，拥有7年以上嵌入式系统与制造自动化经验。热衷于使用 Rust, Python 和 Go 构建可靠的工程基础架构。"
-  },
-  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "GNU General Public License",
@@ -33,13 +26,6 @@
     "title": "GNU General Public License",
     "section": "",
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n&lt;one line to give the program's name and a brief idea of what it does.&gt;\nCopyright (C) &lt;year&gt;  &lt;name of author&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;\nThis program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; type 'show c' for details.\nThe hypothetical commands show w and show c should show the appropriate parts of the General Public License. Of course, your program’s commands might be different; for a GUI interface, you would use an “about box”.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see &lt;http://www.gnu.org/licenses/&gt;.\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Test Software Development Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about building reliable engineering infrastructure using Rust, Python, and Go."
   },
   {
     "objectID": "index-zh.html",
@@ -84,6 +70,13 @@
     "text": "语言能力\n\n英语： 具备良好的工作沟通能力；能阅读技术文档并进行专业书面交流。\n越南语： 母语 — 母语使用者。\n中文： 具备基础的工作沟通能力；能进行简单的业务交流。"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Test Software Development Engineer with 7+ years of experience in embedded systems and manufacturing automation. Passionate about building reliable engineering infrastructure using Rust, Python, and Go."
+  },
+  {
     "objectID": "about-vi.html",
     "href": "about-vi.html",
     "title": "Giới thiệu",
@@ -91,46 +84,11 @@
     "text": "Kỹ sư Phát triển Phần mềm Kiểm thử với hơn 7 năm kinh nghiệm trong lĩnh vực hệ thống nhúng và tự động hóa sản xuất. Đam mê xây dựng hạ tầng kỹ thuật tin cậy bằng Rust, Python và Go."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Curriculum Vitae",
+    "objectID": "about-zh.html",
+    "href": "about-zh.html",
+    "title": "关于",
     "section": "",
-    "text": "Test Software Development Engineer with 7+ years of experience in hardware-software integration testing and manufacturing automation. Experienced in building comprehensive automated test systems (RF, functional, network), integrating cloud tools (GCP, Docker), and scripting (Python, Rust, Go) to optimize production efficiency and engineering infrastructure."
-  },
-  {
-    "objectID": "index.html#core-competencies",
-    "href": "index.html#core-competencies",
-    "title": "Curriculum Vitae",
-    "section": "Core Competencies",
-    "text": "Core Competencies\nTest Automation Architecture · NPI Test Engineering · Embedded Firmware Development · Mentoring & Team Leadership · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration"
-  },
-  {
-    "objectID": "index.html#programming-languages",
-    "href": "index.html#programming-languages",
-    "title": "Curriculum Vitae",
-    "section": "Programming Languages",
-    "text": "Programming Languages\n\nProficient: Python, C++\nExperienced: Rust, Go, PowerShell, Shell, Batchfile\nFamiliar: C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)"
-  },
-  {
-    "objectID": "index.html#platforms-tools",
-    "href": "index.html#platforms-tools",
-    "title": "Curriculum Vitae",
-    "section": "Platforms & Tools",
-    "text": "Platforms & Tools\n\nOS: Linux, Windows\nCloud & DevOps: GCP, Docker, GitHub Actions, Fly.io, Synology\nData & Docs: SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart\nDesign & Simulation: FreeCAD, KiCad, OpenFOAM\nSystem Config: Nix (NixOS)"
-  },
-  {
-    "objectID": "index.html#soft-skills",
-    "href": "index.html#soft-skills",
-    "title": "Curriculum Vitae",
-    "section": "Soft Skills",
-    "text": "Soft Skills\n\nEffective communication and collaboration in multicultural engineering environments.\nSelf-motivated learner who rapidly adapts to new technologies and workflows.\nSystematic problem-solving and analytical thinking across hardware and software domains."
-  },
-  {
-    "objectID": "index.html#languages",
-    "href": "index.html#languages",
-    "title": "Curriculum Vitae",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish: Working proficiency; capable of reading technical documentation and handling professional correspondence.\nChinese: Basic working proficiency; able to handle simple work-related communication."
+    "text": "测试软件开发工程师，拥有7年以上嵌入式系统与制造自动化经验。热衷于使用 Rust, Python 和 Go 构建可靠的工程基础架构。"
   },
   {
     "objectID": "index-vi.html",
@@ -173,5 +131,47 @@
     "title": "Sơ yếu lý lịch",
     "section": "Ngoại ngữ",
     "text": "Ngoại ngữ\n\nTiếng Anh: Sử dụng tốt trong công việc; đọc hiểu tài liệu chuyên môn và giao tiếp văn bản hiệu quả.\nTiếng Trung: Giao tiếp cơ bản trong công việc; có khả năng trao đổi một số vấn đề nghiệp vụ đơn giản."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Test Software Development Engineer with 7+ years of experience in hardware-software integration testing and manufacturing automation. Experienced in building comprehensive automated test systems (RF, functional, network), integrating cloud tools (GCP, Docker), and scripting (Python, Rust, Go) to optimize production efficiency and engineering infrastructure."
+  },
+  {
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "Curriculum Vitae",
+    "section": "Core Competencies",
+    "text": "Core Competencies\nTest Automation Architecture · NPI Test Engineering · Embedded Firmware Development · Mentoring & Team Leadership · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration"
+  },
+  {
+    "objectID": "index.html#programming-languages",
+    "href": "index.html#programming-languages",
+    "title": "Curriculum Vitae",
+    "section": "Programming Languages",
+    "text": "Programming Languages\n\nProficient: Python, C++\nExperienced: Rust, Go, PowerShell, Shell, Batchfile\nFamiliar: C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)"
+  },
+  {
+    "objectID": "index.html#platforms-tools",
+    "href": "index.html#platforms-tools",
+    "title": "Curriculum Vitae",
+    "section": "Platforms & Tools",
+    "text": "Platforms & Tools\n\nOS: Linux, Windows\nCloud & DevOps: GCP, Docker, GitHub Actions, Fly.io, Synology\nData & Docs: SQLite, Jupyter Notebook, Quarto, Markdown, Mermaid Chart\nDesign & Simulation: FreeCAD, KiCad, OpenFOAM\nSystem Config: Nix (NixOS)"
+  },
+  {
+    "objectID": "index.html#soft-skills",
+    "href": "index.html#soft-skills",
+    "title": "Curriculum Vitae",
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\nEffective communication and collaboration in multicultural engineering environments.\nSelf-motivated learner who rapidly adapts to new technologies and workflows.\nSystematic problem-solving and analytical thinking across hardware and software domains."
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Working proficiency; capable of reading technical documentation and handling professional correspondence.\nChinese: Basic working proficiency; able to handle simple work-related communication."
   }
 ]
