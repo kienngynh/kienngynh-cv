@@ -44,20 +44,17 @@ Test Software Development Engineer with 7+ years of experience in hardware-softw
 
 ::::
 
-
 # Skills
 
 ## Core Competencies
 
 Test Automation Architecture · NPI Test Engineering · Embedded Firmware Development · Mentoring & Team Leadership · CI/CD for Hardware · Manufacturing Yield Optimization · Industrial Automation (PLC) · AI/ML Integration · Hardware-Software Integration Testing · Cross-functional Technical Collaboration
 
-
 ## Programming Languages
 
 * **Proficient:** Python, C++
 * **Experienced:** Rust, Go, PowerShell, Shell, Batchfile
 * **Familiar:** C#, Lua, Nix, PLC languages (Structured Text, Function Block Diagram)
-
 
 ## Platforms & Tools
 
@@ -77,9 +74,6 @@ Test Automation Architecture · NPI Test Engineering · Embedded Firmware Develo
 
 * **English:** Working proficiency; capable of reading technical documentation and handling professional correspondence.
 * **Chinese:** Basic working proficiency; able to handle simple work-related communication.
-
-
-
 
 # Experience
 
@@ -104,8 +98,6 @@ Test Automation Architecture · NPI Test Engineering · Embedded Firmware Develo
 * Designed and deployed internal software tools to digitize and optimize cross-departmental workflows.
 * Contributed to firmware and software development for fire alarm systems and integrated Building Management Systems (BMS).
 * Built custom automation pipelines (Python, PowerShell) to enhance process accuracy and traceability.
-
-
 
 # Key Projects
 
